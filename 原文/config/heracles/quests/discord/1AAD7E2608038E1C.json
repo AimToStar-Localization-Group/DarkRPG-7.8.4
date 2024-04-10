@@ -1,0 +1,69 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "2CBEA2BFBEEB94C3": {
+      "title": "Discord",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "54BCC6BEFB1AC390": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:amethyst_cluster",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "command": "tellraw @s [\"\",{\"text\":\"Discord\",\"color\":\"blue\",\"underlined\":\"true\",\"bold\":\"true\", \"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://discord.gg/uCPfPBvsRJ\"}},\"\"]",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": "You can get more help on the official discord channel. Click the checkmark to generate a Discord Link in chat."
+    },
+    "description": [
+      "<subtitle id=\"1AAD7E2608038E1C\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"2CBEA2BFBEEB94C3\" quest=\"1AAD7E2608038E1C\"/>",
+      "<hr/>",
+      "<hr/>",
+      "<reward reward=\"54BCC6BEFB1AC390\" quest=\"1AAD7E2608038E1C\"/>"
+    ],
+    "groups": {
+      "Discord": {
+        "position": [
+          -64,
+          -32
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:amethyst_shard",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/diamonds.png",
+    "title": {
+      "text": "Discord"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": true,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

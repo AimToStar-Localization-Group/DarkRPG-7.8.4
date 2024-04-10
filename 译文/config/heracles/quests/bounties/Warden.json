@@ -1,0 +1,73 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "minecraft:warden": {
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "entity": {
+        "type": "minecraft:warden"
+      },
+      "amount": 100,
+      "title": "",
+      "type": "heracles:kill_entity"
+    }
+  },
+  "rewards": {
+    "simplyswords:runic_tablet": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "simplyswords:runic_tablet",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "**Kill the Warden to get a reward.**",
+      "",
+      "--This is a repeatable task.--"
+    ],
+    "groups": {
+      "Bounties": {
+        "position": [
+          -242,
+          -74
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:sculk_sensor",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/gears.png",
+    "title": {
+      "translate": "Warden"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": true,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

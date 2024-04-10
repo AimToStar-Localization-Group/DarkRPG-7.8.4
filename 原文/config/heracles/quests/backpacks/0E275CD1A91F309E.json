@@ -1,0 +1,77 @@
+{
+  "dependencies": [
+    "726003B7D88799E7"
+  ],
+  "tasks": {
+    "2DA0E43F327F39E5": {
+      "type": "heracles:item",
+      "item": "travelersbackpack:diamond",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "16A802D517635875": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "minecraft:diamond",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "You can craft different types of backpacks and get unique effects. Craft a diamond backpack."
+    },
+    "description": [
+      "<subtitle id=\"0E275CD1A91F309E\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"2DA0E43F327F39E5\" quest=\"0E275CD1A91F309E\"/>",
+      "<hr/>",
+      "<hr/>",
+      "<reward reward=\"16A802D517635875\" quest=\"0E275CD1A91F309E\"/>"
+    ],
+    "groups": {
+      "Backpacks": {
+        "position": [
+          -64,
+          16
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "travelersbackpack:diamond",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Diamond Backpack"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

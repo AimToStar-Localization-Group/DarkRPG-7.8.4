@@ -1,0 +1,72 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "5593302B807425D0": {
+      "title": "Glistering Tome (Amethyst Imbuement)",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "3FB0BEF0C1A553F8": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "amethyst_imbuement:glistering_tome",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "This book will guide you through the Amethyst Imbument Magic mod."
+    },
+    "description": [
+      "<subtitle id=\"4BD10AAEA0212F6A\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"5593302B807425D0\" quest=\"4BD10AAEA0212F6A\"/>",
+      "<hr/>",
+      "<hr/>",
+      "<reward reward=\"3FB0BEF0C1A553F8\" quest=\"4BD10AAEA0212F6A\"/>"
+    ],
+    "groups": {
+      "Guide Books": {
+        "position": [
+          -240,
+          -32
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "amethyst_imbuement:glistering_tome",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/diamonds.png",
+    "title": {
+      "translate": "Glistering Tome (Amethyst Imbuement)"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

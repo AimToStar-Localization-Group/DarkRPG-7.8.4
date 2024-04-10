@@ -1,0 +1,43 @@
+{
+  "settings": {},
+  "tasks": {
+    "3E2CD3A369978B8A": {
+      "title": "Aircrafts",
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "5F7F38EE59720557": {
+      "type": "heracles:xp",
+      "xptype": "points",
+      "amount": 1
+    }
+  },
+  "display": {
+    "title": "Aircrafts",
+    "description": [
+      "<subtitle id=\"012E05B7C74DCCE5\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"3E2CD3A369978B8A\" quest=\"012E05B7C74DCCE5\"/>",
+      "<hr/>",
+      "<hr/>",
+      "<reward reward=\"5F7F38EE59720557\" quest=\"012E05B7C74DCCE5\"/>"
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "immersive_aircraft:biplane"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/gears.png",
+    "subtitle": {
+      "text": "You can craft different types of aircrafts and fly around the map. Search for Immersive Aircraft in EMI/JEI for plane recipes."
+    },
+    "groups": {
+      "Flight": {
+        "position": [
+          -128,
+          -32
+        ]
+      }
+    }
+  }
+}

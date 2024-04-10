@@ -1,0 +1,75 @@
+{
+  "dependencies": [
+    "0300FB2526B2EE4E"
+  ],
+  "tasks": {
+    "1E315D8F0647916E": {
+      "type": "heracles:item",
+      "item": "travelersbackpack:standard",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "0B835CAC9410469B": {
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "xptype": "POINTS",
+      "amount": 10,
+      "title": "",
+      "type": "heracles:xp"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Craft your first backpack! Use EMI/JEI to view its recipe layout."
+    },
+    "description": [
+      "<subtitle id=\"50AC35028A91A7D2\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"1E315D8F0647916E\" quest=\"50AC35028A91A7D2\"/>",
+      "<hr/>",
+      "<hr/>",
+      "<reward reward=\"0B835CAC9410469B\" quest=\"50AC35028A91A7D2\"/>"
+    ],
+    "groups": {
+      "Backpacks": {
+        "position": [
+          128,
+          16
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "travelersbackpack:standard",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Traveler's Backpack"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

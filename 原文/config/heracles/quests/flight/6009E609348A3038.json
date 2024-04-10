@@ -1,0 +1,43 @@
+{
+  "settings": {},
+  "tasks": {
+    "5BA9EFDB2AC0D2EE": {
+      "title": "Elytras",
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "3C793E977F0C72A3": {
+      "type": "heracles:xp",
+      "xptype": "points",
+      "amount": 1
+    }
+  },
+  "display": {
+    "title": "Elytras",
+    "description": [
+      "<subtitle id=\"6009E609348A3038\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"5BA9EFDB2AC0D2EE\" quest=\"6009E609348A3038\"/>",
+      "<hr/>",
+      "<hr/>",
+      "<reward reward=\"3C793E977F0C72A3\" quest=\"6009E609348A3038\"/>"
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "minecraft:elytra"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/rounded_squares.png",
+    "subtitle": {
+      "text": "Obtain an elytra or choose an origin that allows you to fly."
+    },
+    "groups": {
+      "Flight": {
+        "position": [
+          -64,
+          32
+        ]
+      }
+    }
+  }
+}

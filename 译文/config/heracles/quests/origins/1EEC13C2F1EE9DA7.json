@@ -1,0 +1,75 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "0814685ED0061670": {
+      "title": "Water Breathing",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "6523BD31BE99B076": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "minecraft:potion",
+        "count": 1,
+        "nbt": {
+          "Potion": "minecraft:water_breathing"
+        }
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Want to survive on land as a water based origin? Use water breathing potions or check out the DarkTides quest (press L and click on the fish bucket icon). Click the checkmark for a free water breathing potion.\n"
+    },
+    "description": [
+      "<subtitle id=\"1EEC13C2F1EE9DA7\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"0814685ED0061670\" quest=\"1EEC13C2F1EE9DA7\"/>",
+      "<hr/>",
+      "<hr/>",
+      "<reward reward=\"6523BD31BE99B076\" quest=\"1EEC13C2F1EE9DA7\"/>"
+    ],
+    "groups": {
+      "Origins": {
+        "position": [
+          32,
+          -64
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:pufferfish",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Water Breathing"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

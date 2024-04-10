@@ -1,0 +1,73 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "minecraft:wither": {
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "entity": {
+        "type": "minecraft:wither"
+      },
+      "amount": 80,
+      "title": "",
+      "type": "heracles:kill_entity"
+    }
+  },
+  "rewards": {
+    "simplyswords:runic_tablet": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "simplyswords:runic_tablet",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "**Kill the Wither to get a reward.**",
+      "",
+      "--This is a repeatable task.--"
+    ],
+    "groups": {
+      "Bounties": {
+        "position": [
+          -161,
+          -74
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:wither_skeleton_skull",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/gears.png",
+    "title": {
+      "translate": "Wither"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": true,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

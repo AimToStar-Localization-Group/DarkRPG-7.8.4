@@ -1,0 +1,72 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "6DA21706EE3208F6": {
+      "title": "Croptopia Guide",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "7BF2F6662DCF2621": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "croptopia:guide",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "This book will guide you through the Croptopia mod."
+    },
+    "description": [
+      "<subtitle id=\"61498F1B4646B8A9\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"6DA21706EE3208F6\" quest=\"61498F1B4646B8A9\"/>",
+      "<hr/>",
+      "<hr/>",
+      "<reward reward=\"7BF2F6662DCF2621\" quest=\"61498F1B4646B8A9\"/>"
+    ],
+    "groups": {
+      "Guide Books": {
+        "position": [
+          -64,
+          -32
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "croptopia:guide",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/diamonds.png",
+    "title": {
+      "translate": "Croptopia Guide"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

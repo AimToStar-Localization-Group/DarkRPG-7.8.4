@@ -1,0 +1,69 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "5FCBE35DBD54B482": {
+      "title": "Get a Server",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "301A1EEFFF466478": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:nether_star",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "command": "tellraw @s [\"\",{\"text\":\"Get a Server\",\"color\":\"green\",\"underlined\":\"true\",\"bold\":\"true\", \"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.bisecthosting.com/gamerpotion\"}},\"\"]",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Get a server today and play with your friends! Use the checkmark to generate a link to get a DarkRPG server and start playing today!\n"
+    },
+    "description": [
+      "<subtitle id=\"156A10D4315F7EC4\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"5FCBE35DBD54B482\" quest=\"156A10D4315F7EC4\"/>",
+      "<hr/>",
+      "<hr/>",
+      "<reward reward=\"301A1EEFFF466478\" quest=\"156A10D4315F7EC4\"/>"
+    ],
+    "groups": {
+      "Server": {
+        "position": [
+          -16,
+          -16
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:nether_star",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/hearts.png",
+    "title": {
+      "translate": "Get a Server"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": true,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

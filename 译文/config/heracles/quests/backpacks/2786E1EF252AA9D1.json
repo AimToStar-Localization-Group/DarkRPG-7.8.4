@@ -1,0 +1,56 @@
+{
+  "dependencies": [
+    "0F49850DA3B40666"
+  ],
+  "tasks": {
+    "32EE4A2116ECA62A": {
+      "title": "Sleeping Bag",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Craft any type of sleeping back then click the checkmark to continue."
+    },
+    "description": [
+      "<subtitle id=\"2786E1EF252AA9D1\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"32EE4A2116ECA62A\" quest=\"2786E1EF252AA9D1\"/>",
+      "<hr/>"
+    ],
+    "groups": {
+      "Backpacks": {
+        "position": [
+          -16,
+          -32
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "travelersbackpack:white_sleeping_bag",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Sleeping Bag"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

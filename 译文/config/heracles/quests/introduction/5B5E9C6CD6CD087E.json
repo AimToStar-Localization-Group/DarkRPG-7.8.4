@@ -1,0 +1,75 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "2322B2A0E2473E84": {
+      "title": "Introduction",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "77A75A60A14A49EB": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "minecraft:golden_apple",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Welcome to the DarkRPG Modpack! Use the group list on the left as a mini-guide to the modpack. Click the checkmark to recieve your first reward.\n"
+    },
+    "description": [
+      "<subtitle id=\"5B5E9C6CD6CD087E\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"2322B2A0E2473E84\" quest=\"5B5E9C6CD6CD087E\"/>",
+      "<hr/>",
+      "<hr/>",
+      "<reward reward=\"77A75A60A14A49EB\" quest=\"5B5E9C6CD6CD087E\"/>"
+    ],
+    "groups": {
+      "Introduction": {
+        "position": [
+          -128,
+          -64
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:leather_helmet",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/diamonds.png",
+    "title": {
+      "translate": "Introduction"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "46B1CAAB0FFC3FDB": {
+      "title": "Jetpack",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "7640C4CD63DEEF11": {
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "xptype": "POINTS",
+      "amount": 1,
+      "title": "",
+      "type": "heracles:xp"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Equip a Diamond Shovel in offhand and use the command /trigger flight to start levitating. Once slow falling effect has run out, you can repeat the command.\n"
+    },
+    "description": [
+      "<subtitle id=\"4CD8D4710CBEF010\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"46B1CAAB0FFC3FDB\" quest=\"4CD8D4710CBEF010\"/>",
+      "<hr/>",
+      "<hr/>",
+      "<reward reward=\"7640C4CD63DEEF11\" quest=\"4CD8D4710CBEF010\"/>"
+    ],
+    "groups": {
+      "Flight": {
+        "position": [
+          -192,
+          32
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:diamond_shovel",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/gears.png",
+    "title": {
+      "translate": "Jetpack"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

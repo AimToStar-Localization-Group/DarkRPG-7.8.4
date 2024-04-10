@@ -1,0 +1,59 @@
+{
+  "dependencies": [
+    "7E9302E80D741D05"
+  ],
+  "tasks": {
+    "15516374DA816878": {
+      "type": "heracles:item",
+      "item": "minecraft:chest",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Craft a chest."
+    },
+    "description": [
+      "<subtitle id=\"0F49850DA3B40666\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"15516374DA816878\" quest=\"0F49850DA3B40666\"/>",
+      "<hr/>"
+    ],
+    "groups": {
+      "Backpacks": {
+        "position": [
+          -64,
+          -32
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:chest",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Chest"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

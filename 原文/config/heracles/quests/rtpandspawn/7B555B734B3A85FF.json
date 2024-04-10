@@ -1,0 +1,42 @@
+{
+  "settings": {},
+  "tasks": {
+    "6B6E6EC5B18EDD03": {
+      "title": "Spawn",
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "26C54F08F6255C24": {
+      "type": "heracles:xp",
+      "xptype": "points",
+      "amount": 1
+    }
+  },
+  "display": {
+    "title": "Spawn",
+    "description": [
+      "<subtitle id=\"7B555B734B3A85FF\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"6B6E6EC5B18EDD03\" quest=\"7B555B734B3A85FF\"/>",
+      "<hr/>",
+      "<hr/>",
+      "<reward reward=\"26C54F08F6255C24\" quest=\"7B555B734B3A85FF\"/>"
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "minecraft:red_bed"
+    },
+    "subtitle": {
+      "text": "Use the command /trigger darkspawn to teleport to a fixed spawn/lobby location. This location can be changed by using a datapack. Visit the discord channel for more information."
+    },
+    "groups": {
+      "RTP and Spawn": {
+        "position": [
+          -112,
+          -64
+        ]
+      }
+    }
+  }
+}

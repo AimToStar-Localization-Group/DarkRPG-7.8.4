@@ -1,0 +1,43 @@
+{
+  "settings": {},
+  "tasks": {
+    "042171832574F04F": {
+      "title": "Multiplayer",
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "69F0651A302B125E": {
+      "type": "heracles:xp",
+      "xptype": "points",
+      "amount": 1
+    }
+  },
+  "display": {
+    "title": "Multiplayer",
+    "description": [
+      "<subtitle id=\"61D21AA16A3CD795\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"042171832574F04F\" quest=\"61D21AA16A3CD795\"/>",
+      "<hr/>",
+      "<hr/>",
+      "<reward reward=\"69F0651A302B125E\" quest=\"61D21AA16A3CD795\"/>"
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "minecraft:wooden_sword"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/rounded_squares.png",
+    "subtitle": {
+      "text": "You can also play on the official servers by joining a server in the MMO section. Remember to respect others. Do not do PVP without permission and don't steal boss drops."
+    },
+    "groups": {
+      "Server": {
+        "position": [
+          112,
+          -16
+        ]
+      }
+    }
+  }
+}

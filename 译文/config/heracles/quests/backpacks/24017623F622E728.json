@@ -1,0 +1,59 @@
+{
+  "dependencies": [
+    "2CCF7E009385CD1C"
+  ],
+  "tasks": {
+    "2D6D66E59CEE9128": {
+      "type": "heracles:item",
+      "item": "travelersbackpack:iron_tier_upgrade",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Craft an Iron Tier Upgrade."
+    },
+    "description": [
+      "<subtitle id=\"24017623F622E728\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"2D6D66E59CEE9128\" quest=\"24017623F622E728\"/>",
+      "<hr/>"
+    ],
+    "groups": {
+      "Backpacks": {
+        "position": [
+          32,
+          16
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "travelersbackpack:iron_tier_upgrade",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Iron Tier Upgrade"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

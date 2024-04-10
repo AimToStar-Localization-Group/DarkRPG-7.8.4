@@ -1,0 +1,59 @@
+{
+  "dependencies": [
+    "2786E1EF252AA9D1"
+  ],
+  "tasks": {
+    "1EDC9F446F9B1949": {
+      "type": "heracles:item",
+      "item": "minecraft:gold_ingot",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Obtain a Gold Ingot"
+    },
+    "description": [
+      "<subtitle id=\"1060064624553EF9\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"1EDC9F446F9B1949\" quest=\"1060064624553EF9\"/>",
+      "<hr/>"
+    ],
+    "groups": {
+      "Backpacks": {
+        "position": [
+          32,
+          -32
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:gold_ingot",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Gold Ingot"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

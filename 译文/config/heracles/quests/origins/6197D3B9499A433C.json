@@ -1,0 +1,78 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "3AC161E13B01A343": {
+      "title": "Umbrella",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "5D2667B5300BC764": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "originsumbrellas:umbrella",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Umbrellas are a great way to survive from sunlight. If your origin is damaged in the sun, then equip an umbrella. Click the checkmark for a free umbrella. They can also be crafted if you lose it."
+    },
+    "description": [
+      "<subtitle id=\"6197D3B9499A433C\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"3AC161E13B01A343\" quest=\"6197D3B9499A433C\"/>",
+      "<hr/>",
+      "<hr/>",
+      "<reward reward=\"5D2667B5300BC764\" quest=\"6197D3B9499A433C\"/>"
+    ],
+    "groups": {
+      "Origins": {
+        "position": [
+          128,
+          -64
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "originsumbrellas:umbrella",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Umbrella"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

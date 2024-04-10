@@ -1,0 +1,72 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "711316015ED43E34": {
+      "title": "Origins",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "29F7EA65804A706D": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "origins:orb_of_origin",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Craft an Orb of Origin to change your origin and class. Press [O] to view your current origin information. Here is a free Orb of Origin to get your started!\n"
+    },
+    "description": [
+      "<subtitle id=\"2AFC15AAA61031B3\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"711316015ED43E34\" quest=\"2AFC15AAA61031B3\"/>",
+      "<hr/>",
+      "<hr/>",
+      "<reward reward=\"29F7EA65804A706D\" quest=\"2AFC15AAA61031B3\"/>"
+    ],
+    "groups": {
+      "Origins": {
+        "position": [
+          -64,
+          -64
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "origins:orb_of_origin",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Origins"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "settings": {},
+  "tasks": {
+    "6CA54C821ECBD80C": {
+      "title": "Auction House",
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "68B4F67F2366C289": {
+      "type": "heracles:xp",
+      "xptype": "points",
+      "amount": 1
+    }
+  },
+  "display": {
+    "title": "Auction House",
+    "description": [
+      "<subtitle id=\"694F4A03B36EC1C7\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"6CA54C821ECBD80C\" quest=\"694F4A03B36EC1C7\"/>",
+      "<hr/>",
+      "<hr/>",
+      "<reward reward=\"68B4F67F2366C289\" quest=\"694F4A03B36EC1C7\"/>"
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "minecraft:diamond_block"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/hearts.png",
+    "subtitle": {
+      "text": "Use the command /auc to view the auction house. Here you can buy and sell items to/from other players."
+    },
+    "groups": {
+      "Currency System": {
+        "position": [
+          -128,
+          -64
+        ]
+      }
+    }
+  }
+}

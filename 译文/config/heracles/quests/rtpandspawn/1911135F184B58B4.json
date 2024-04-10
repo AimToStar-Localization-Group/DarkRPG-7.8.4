@@ -1,0 +1,70 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "7FF7ADC1745E3CBD": {
+      "title": "Death Wish",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "11B0AAFB52C4648F": {
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "xptype": "POINTS",
+      "amount": 1,
+      "title": "",
+      "type": "heracles:xp"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "If you ever get stuck or want to quickly return to your last spawn, you may wish to ask for a death wish. Use the command /trigger darkdeath to kill your character. You will not lose any items.\n"
+    },
+    "description": [
+      "<subtitle id=\"1911135F184B58B4\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"7FF7ADC1745E3CBD\" quest=\"1911135F184B58B4\"/>",
+      "<hr/>",
+      "<hr/>",
+      "<reward reward=\"11B0AAFB52C4648F\" quest=\"1911135F184B58B4\"/>"
+    ],
+    "groups": {
+      "RTP and Spawn": {
+        "position": [
+          -32,
+          -64
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:player_head",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Death Wish"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "3385092D1622EF25": {
+      "title": "Bosses",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "3AF6A109161A76BE": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "minecraft:potion",
+        "count": 1,
+        "nbt": {
+          "Potion": "minecraft:healing"
+        }
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "There are many bosses to defeat in DarkRPG. The summon information for bosses is found via the advancement section. Press [L] then click on the DarkBosses dragon head icon to view more information.\n"
+    },
+    "description": [
+      "<subtitle id=\"2AB037853C949F72\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"3385092D1622EF25\" quest=\"2AB037853C949F72\"/>",
+      "<hr/>",
+      "<hr/>",
+      "<reward reward=\"3AF6A109161A76BE\" quest=\"2AB037853C949F72\"/>"
+    ],
+    "groups": {
+      "Bosses": {
+        "position": [
+          32,
+          0
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:dragon_head",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Bosses"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

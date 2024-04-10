@@ -1,0 +1,70 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "67A872D83E2F9827": {
+      "title": "RTP (Random Teleport)",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "13D43EDAF36405C2": {
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "xptype": "POINTS",
+      "amount": 1,
+      "title": "",
+      "type": "heracles:xp"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Use the command /trigger darkrtp to randomly teleport to another location.\n"
+    },
+    "description": [
+      "<subtitle id=\"0F4435AA37075884\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"67A872D83E2F9827\" quest=\"0F4435AA37075884\"/>",
+      "<hr/>",
+      "<hr/>",
+      "<reward reward=\"13D43EDAF36405C2\" quest=\"0F4435AA37075884\"/>"
+    ],
+    "groups": {
+      "RTP and Spawn": {
+        "position": [
+          -192,
+          -64
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:ender_eye",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "RTP (Random Teleport)"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

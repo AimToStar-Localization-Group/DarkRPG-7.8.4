@@ -1,0 +1,59 @@
+{
+  "dependencies": [
+    "6760E7AE17D1132F"
+  ],
+  "tasks": {
+    "7A1127A68304E832": {
+      "type": "heracles:item",
+      "item": "travelersbackpack:backpack_tank",
+      "amount": 2,
+      "collection": "AUTOMATIC",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Craft 2x Backpack Tanks."
+    },
+    "description": [
+      "<subtitle id=\"0300FB2526B2EE4E\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"7A1127A68304E832\" quest=\"0300FB2526B2EE4E\"/>",
+      "<hr/>"
+    ],
+    "groups": {
+      "Backpacks": {
+        "position": [
+          128,
+          -32
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "travelersbackpack:backpack_tank",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Backpack Tank"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

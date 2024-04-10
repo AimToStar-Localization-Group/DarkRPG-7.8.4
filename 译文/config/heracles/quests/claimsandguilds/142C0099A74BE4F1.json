@@ -1,0 +1,42 @@
+{
+  "settings": {},
+  "tasks": {
+    "348BCC93CDCFBC44": {
+      "title": "Claiming",
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "39A58048CDDBE0BE": {
+      "type": "heracles:xp",
+      "xptype": "points",
+      "amount": 1
+    }
+  },
+  "display": {
+    "title": "Claiming",
+    "description": [
+      "<subtitle id=\"142C0099A74BE4F1\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"348BCC93CDCFBC44\" quest=\"142C0099A74BE4F1\"/>",
+      "<hr/>",
+      "<hr/>",
+      "<reward reward=\"39A58048CDDBE0BE\" quest=\"142C0099A74BE4F1\"/>"
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "minecraft:oak_boat"
+    },
+    "subtitle": {
+      "text": "You can make a claim by opening the world map [M] then right-click drag the area you want to claim. Members of your party will also have access to the claims."
+    },
+    "groups": {
+      "Claims and Guilds": {
+        "position": [
+          -224,
+          -96
+        ]
+      }
+    }
+  }
+}

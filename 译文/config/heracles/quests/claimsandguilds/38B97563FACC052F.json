@@ -1,0 +1,70 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "6482693BA00E17BF": {
+      "title": "Parties and Guilds",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "156ED2CA976A388D": {
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "xptype": "POINTS",
+      "amount": 1,
+      "title": "",
+      "type": "heracles:xp"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Use the command /openpac-parties to form a basic party. Use the command /guild to create a guild. Use the command /guild settings hq set to set your guild hall location. Use /guild hq to teleport to your guild hq.\n"
+    },
+    "description": [
+      "<subtitle id=\"38B97563FACC052F\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"6482693BA00E17BF\" quest=\"38B97563FACC052F\"/>",
+      "<hr/>",
+      "<hr/>",
+      "<reward reward=\"156ED2CA976A388D\" quest=\"38B97563FACC052F\"/>"
+    ],
+    "groups": {
+      "Claims and Guilds": {
+        "position": [
+          -144,
+          -96
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:birch_sign",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Parties and Guilds"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

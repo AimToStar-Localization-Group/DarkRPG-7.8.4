@@ -1,0 +1,73 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "minecraft:zombie": {
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "entity": {
+        "type": "minecraft:zombie"
+      },
+      "amount": 100,
+      "title": "",
+      "type": "heracles:kill_entity"
+    }
+  },
+  "rewards": {
+    "darkblades:dark_dust": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "darkblades:dark_dust",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "**Kill zombies to get a reward.**",
+      "",
+      "--This is a repeatable task.--"
+    ],
+    "groups": {
+      "Bounties": {
+        "position": [
+          -277,
+          -120
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:zombie_head",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/gears.png",
+    "title": {
+      "translate": "Zombies"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": true,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

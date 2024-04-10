@@ -1,0 +1,70 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "697273ABE1A4F68E": {
+      "title": "Diamonds (currency)",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "6A2012153EFD3C99": {
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "xptype": "POINTS",
+      "amount": 1,
+      "title": "",
+      "type": "heracles:xp"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Diamonds are the primary source of currency in DarkRPG. Use the command /diamonds to check your balance and deposit diamonds into your currency pouch."
+    },
+    "description": [
+      "<subtitle id=\"42853D1367885CAE\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"697273ABE1A4F68E\" quest=\"42853D1367885CAE\"/>",
+      "<hr/>",
+      "<hr/>",
+      "<reward reward=\"6A2012153EFD3C99\" quest=\"42853D1367885CAE\"/>"
+    ],
+    "groups": {
+      "Currency System": {
+        "position": [
+          -224,
+          -64
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:diamond",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/hearts.png",
+    "title": {
+      "translate": "Diamonds (currency)"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

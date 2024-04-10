@@ -1,0 +1,45 @@
+{
+  "settings": {},
+  "tasks": {
+    "023B21BB342EED5C": {
+      "title": "Waystones",
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "5C6104AAB45ED74A": {
+      "type": "heracles:item",
+      "item": {
+        "id": "minecraft:bread",
+        "count": 3
+      }
+    }
+  },
+  "display": {
+    "title": "Waystones",
+    "description": [
+      "<subtitle id=\"202A43CD8FB1CE0B\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"023B21BB342EED5C\" quest=\"202A43CD8FB1CE0B\"/>",
+      "<hr/>",
+      "<hr/>",
+      "<reward reward=\"5C6104AAB45ED74A\" quest=\"202A43CD8FB1CE0B\"/>"
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "fwaystones:blackstone_brick_waystone"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/rounded_squares.png",
+    "subtitle": {
+      "text": "Waystones are a great way to teleport around the map and to your friend's location. Craft a waystone or find them in villages."
+    },
+    "groups": {
+      "Waystone Teleport": {
+        "position": [
+          -144,
+          -48
+        ]
+      }
+    }
+  }
+}

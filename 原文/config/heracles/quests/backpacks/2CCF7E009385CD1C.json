@@ -1,0 +1,59 @@
+{
+  "dependencies": [
+    "50AC35028A91A7D2"
+  ],
+  "tasks": {
+    "275F9D19111182F0": {
+      "type": "heracles:item",
+      "item": "travelersbackpack:blank_upgrade",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "It's time to upgrade your backpack. You can increase a backpack's capacity by upgrading. Craft a Blank Upgrade."
+    },
+    "description": [
+      "<subtitle id=\"2CCF7E009385CD1C\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"275F9D19111182F0\" quest=\"2CCF7E009385CD1C\"/>",
+      "<hr/>"
+    ],
+    "groups": {
+      "Backpacks": {
+        "position": [
+          80,
+          16
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "travelersbackpack:blank_upgrade",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Blank Upgrade"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

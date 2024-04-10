@@ -1,0 +1,72 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "497430F3CA1A376A": {
+      "title": "Questing",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "70FB3BEA85B268F9": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "minecraft:cookie",
+        "count": 3
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Quests are now done via the advancements section. Press [L] then click on the DarkQuesting Book icon to start quests. Make sure to clear inventory space before doing a quest. Item rewards go straight into inventory.\n"
+    },
+    "description": [
+      "<subtitle id=\"0286AF5452FB0E5C\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"497430F3CA1A376A\" quest=\"0286AF5452FB0E5C\"/>",
+      "<hr/>",
+      "<hr/>",
+      "<reward reward=\"70FB3BEA85B268F9\" quest=\"0286AF5452FB0E5C\"/>"
+    ],
+    "groups": {
+      "Questing": {
+        "position": [
+          -64,
+          -16
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:book",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/octagons.png",
+    "title": {
+      "translate": "Questing"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

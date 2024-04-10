@@ -1,0 +1,75 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "4320AD6ECA4D3936": {
+      "title": "Runic Grimoire (Simply Swords)",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "59E13D89201368ED": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "patchouli:guide_book",
+        "count": 1,
+        "nbt": {
+          "patchouli:book": "simplyswords:runic_grimoire"
+        }
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "This book will guide you through the Simply Swords mod."
+    },
+    "description": [
+      "<subtitle id=\"154452421DD64D0D\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"4320AD6ECA4D3936\" quest=\"154452421DD64D0D\"/>",
+      "<hr/>",
+      "<hr/>",
+      "<reward reward=\"59E13D89201368ED\" quest=\"154452421DD64D0D\"/>"
+    ],
+    "groups": {
+      "Guide Books": {
+        "position": [
+          -153,
+          -32
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "patchouli:guide_book",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/diamonds.png",
+    "title": {
+      "translate": "Runic Grimoire (Simply Swords)"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

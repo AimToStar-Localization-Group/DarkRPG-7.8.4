@@ -1,0 +1,72 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "771C755ABBA09302": {
+      "title": "Things Almanac",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "12C2732F953097EA": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "things:things_almanac",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "This book will guide you through the Things (trinkets) mod."
+    },
+    "description": [
+      "<subtitle id=\"19D65226988FA4D2\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"771C755ABBA09302\" quest=\"19D65226988FA4D2\"/>",
+      "<hr/>",
+      "<hr/>",
+      "<reward reward=\"12C2732F953097EA\" quest=\"19D65226988FA4D2\"/>"
+    ],
+    "groups": {
+      "Guide Books": {
+        "position": [
+          16,
+          -32
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "things:things_almanac",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/diamonds.png",
+    "title": {
+      "translate": "Things Almanac"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}
