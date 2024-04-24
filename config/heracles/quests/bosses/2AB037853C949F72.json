@@ -2,7 +2,7 @@
   "dependencies": [],
   "tasks": {
     "3385092D1622EF25": {
-      "title": "Bosses",
+      "title": "各种Boss",
       "icon": {
         "item": {
           "id": "minecraft:air",
@@ -35,7 +35,7 @@
   },
   "display": {
     "subtitle": {
-      "translate": "There are many bosses to defeat in DarkRPG. The summon information for bosses is found via the advancement section. Press [L] then click on the DarkBosses dragon head icon to view more information.\n"
+      "translate": "There are many 各种Boss to defeat in DarkRPG. The summon information for 各种Boss is found via the advancement section. Press [L] then click on the Dark各种Boss dragon head icon to view more information.\n"
     },
     "description": [
       "<subtitle id=\"2AB037853C949F72\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
@@ -46,7 +46,7 @@
       "<reward reward=\"3AF6A109161A76BE\" quest=\"2AB037853C949F72\"/>"
     ],
     "groups": {
-      "Bosses": {
+      "各种Boss": {
         "position": [
           32,
           0
@@ -62,7 +62,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Bosses"
+      "translate": "各种Boss"
     }
   },
   "settings": {

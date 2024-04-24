@@ -2,7 +2,7 @@
   "dependencies": [],
   "tasks": {
     "711316015ED43E34": {
-      "title": "Origins",
+      "title": "起源",
       "icon": {
         "item": {
           "id": "minecraft:air",
@@ -43,7 +43,7 @@
       "<reward reward=\"29F7EA65804A706D\" quest=\"2AFC15AAA61031B3\"/>"
     ],
     "groups": {
-      "Origins": {
+      "起源": {
         "position": [
           -64,
           -64
@@ -59,7 +59,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Origins"
+      "translate": "起源"
     }
   },
   "settings": {

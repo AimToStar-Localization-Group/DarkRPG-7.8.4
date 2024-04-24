@@ -1,14 +1,14 @@
-Introduction
-Questing
-Bounties
-Bosses
-Origins
-Backpacks
-RTP and Spawn
-Waystone Teleport
-Flight
-Claims and Guilds
-Currency System
-Guide Books
-Server
+介绍
+任务
+赏金任务
+各种Boss
+起源
+背包
+随机传送和出生点
+传送石碑
+飞行
+区块认领和公会
+货币系统
+指南书
+服务器
 Discord

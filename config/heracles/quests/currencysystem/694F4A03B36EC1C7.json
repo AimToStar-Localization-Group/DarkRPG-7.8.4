@@ -32,7 +32,7 @@
       "text": "Use the command /auc to view the auction house. Here you can buy and sell items to/from other players."
     },
     "groups": {
-      "Currency System": {
+      "货币系统": {
         "position": [
           -128,
           -64

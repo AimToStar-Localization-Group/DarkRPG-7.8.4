@@ -32,7 +32,7 @@
       "text": "You can craft different types of aircrafts and fly around the map. Search for Immersive Aircraft in EMI/JEI for plane recipes."
     },
     "groups": {
-      "Flight": {
+      "飞行": {
         "position": [
           -128,
           -32

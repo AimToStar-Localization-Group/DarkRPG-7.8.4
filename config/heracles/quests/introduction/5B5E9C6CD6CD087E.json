@@ -2,7 +2,7 @@
   "dependencies": [],
   "tasks": {
     "2322B2A0E2473E84": {
-      "title": "Introduction",
+      "title": "介绍",
       "icon": {
         "item": {
           "id": "minecraft:air",
@@ -43,7 +43,7 @@
       "<reward reward=\"77A75A60A14A49EB\" quest=\"5B5E9C6CD6CD087E\"/>"
     ],
     "groups": {
-      "Introduction": {
+      "介绍": {
         "position": [
           -128,
           -64
@@ -62,7 +62,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/diamonds.png",
     "title": {
-      "translate": "Introduction"
+      "translate": "介绍"
     }
   },
   "settings": {

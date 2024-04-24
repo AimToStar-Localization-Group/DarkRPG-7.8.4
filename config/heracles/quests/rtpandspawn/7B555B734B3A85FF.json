@@ -31,7 +31,7 @@
       "text": "Use the command /trigger darkspawn to teleport to a fixed spawn/lobby location. This location can be changed by using a datapack. Visit the discord channel for more information."
     },
     "groups": {
-      "RTP and Spawn": {
+      "随机传送和出生点": {
         "position": [
           -112,
           -64

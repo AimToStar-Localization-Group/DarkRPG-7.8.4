@@ -34,7 +34,7 @@
       "text": "Waystones are a great way to teleport around the map and to your friend's location. Craft a waystone or find them in villages."
     },
     "groups": {
-      "Waystone Teleport": {
+      "传送石碑": {
         "position": [
           -144,
           -48

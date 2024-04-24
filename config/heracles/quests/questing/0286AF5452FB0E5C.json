@@ -2,7 +2,7 @@
   "dependencies": [],
   "tasks": {
     "497430F3CA1A376A": {
-      "title": "Questing",
+      "title": "任务",
       "icon": {
         "item": {
           "id": "minecraft:air",
@@ -43,7 +43,7 @@
       "<reward reward=\"70FB3BEA85B268F9\" quest=\"0286AF5452FB0E5C\"/>"
     ],
     "groups": {
-      "Questing": {
+      "任务": {
         "position": [
           -64,
           -16
@@ -59,7 +59,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/octagons.png",
     "title": {
-      "translate": "Questing"
+      "translate": "任务"
     }
   },
   "settings": {
