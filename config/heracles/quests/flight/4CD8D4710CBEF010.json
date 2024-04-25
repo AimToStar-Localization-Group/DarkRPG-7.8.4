@@ -2,7 +2,7 @@
   "dependencies": [],
   "tasks": {
     "46B1CAAB0FFC3FDB": {
-      "title": "Jetpack",
+      "title": "喷气背包",
       "icon": {
         "item": {
           "id": "minecraft:air",
@@ -30,7 +30,7 @@
   },
   "display": {
     "subtitle": {
-      "translate": "在副手中装备一把钻石锹，然后使用指令/trigger flight启用漂浮效果。当缓降效果消失后，可以再次重复使用该指令。\n"
+      "translate": "在副手中装备一把钻石锹，然后使用指令/trigger flight启用飘浮效果。当缓降效果消失后，可以再次重复使用该指令。\n"
     },
     "description": [
       "<subtitle id=\"4CD8D4710CBEF010\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
@@ -60,7 +60,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/gears.png",
     "title": {
-      "translate": "Jetpack"
+      "translate": "喷气背包"
     }
   },
   "settings": {

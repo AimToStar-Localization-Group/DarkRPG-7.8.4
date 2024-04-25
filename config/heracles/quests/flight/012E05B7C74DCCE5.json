@@ -2,7 +2,7 @@
   "settings": {},
   "tasks": {
     "3E2CD3A369978B8A": {
-      "title": "Aircrafts",
+      "title": "飞行器",
       "type": "heracles:check"
     }
   },
@@ -14,7 +14,7 @@
     }
   },
   "display": {
-    "title": "Aircrafts",
+    "title": "飞行器",
     "description": [
       "<subtitle id=\"012E05B7C74DCCE5\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
       "<hr/>",

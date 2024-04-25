@@ -2,7 +2,7 @@
   "settings": {},
   "tasks": {
     "6CA54C821ECBD80C": {
-      "title": "Auction House",
+      "title": "拍卖行",
       "type": "heracles:check"
     }
   },
@@ -14,7 +14,7 @@
     }
   },
   "display": {
-    "title": "Auction House",
+    "title": "拍卖行",
     "description": [
       "<subtitle id=\"694F4A03B36EC1C7\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
       "<hr/>",

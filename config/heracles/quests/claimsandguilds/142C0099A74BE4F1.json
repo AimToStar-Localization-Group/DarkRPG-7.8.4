@@ -2,7 +2,7 @@
   "settings": {},
   "tasks": {
     "348BCC93CDCFBC44": {
-      "title": "Claiming",
+      "title": "区块认领",
       "type": "heracles:check"
     }
   },
@@ -14,7 +14,7 @@
     }
   },
   "display": {
-    "title": "Claiming",
+    "title": "区块认领",
     "description": [
       "<subtitle id=\"142C0099A74BE4F1\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
       "<hr/>",
@@ -28,7 +28,7 @@
       "item": "minecraft:oak_boat"
     },
     "subtitle": {
-      "text": "你可以通过按[M]打开世界地图，然后右键拖动区块，随后点击认领即可认领你选择的区块。同时，你队伍中的所有成员也都可以访问你认领的区块。"
+      "text": "你可以通过按[M]打开世界地图，然后长按右键拖动区块，随后点击认领即可认领你选择的区块。同时，你队伍中的所有成员也都可以访问你认领的区块。"
     },
     "groups": {
       "区块认领和公会": {

@@ -4,7 +4,7 @@
   ],
   "tasks": {
     "32EE4A2116ECA62A": {
-      "title": "Sleeping Bag",
+      "title": "睡袋",
       "icon": {
         "item": {
           "id": "minecraft:air",
@@ -18,7 +18,7 @@
   "rewards": {},
   "display": {
     "subtitle": {
-      "translate": "制造任意种类的睡袋后点击任务检查标志以继续。"
+      "translate": "制造任意种类的睡袋后点击任务检查标记以继续。"
     },
     "description": [
       "<subtitle id=\"2786E1EF252AA9D1\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",

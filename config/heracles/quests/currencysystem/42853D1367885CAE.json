@@ -2,7 +2,7 @@
   "dependencies": [],
   "tasks": {
     "697273ABE1A4F68E": {
-      "title": "Diamonds (currency)",
+      "title": "钻石（货币）",
       "icon": {
         "item": {
           "id": "minecraft:air",
@@ -57,7 +57,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/hearts.png",
     "title": {
-      "translate": "Diamonds (currency)"
+      "translate": "钻石（货币）"
     }
   },
   "settings": {

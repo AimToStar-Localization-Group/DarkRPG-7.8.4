@@ -39,7 +39,7 @@
       "text": ""
     },
     "description": [
-      "**击杀凋零来获得奖励**",
+      "**击杀凋灵来获得奖励**",
       "",
       "--此任务可重复完成--"
     ],
@@ -60,7 +60,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/gears.png",
     "title": {
-      "translate": "凋零"
+      "translate": "凋灵"
     }
   },
   "settings": {

@@ -2,7 +2,7 @@
   "settings": {},
   "tasks": {
     "5BA9EFDB2AC0D2EE": {
-      "title": "Elytras",
+      "title": "鞘翅",
       "type": "heracles:check"
     }
   },
@@ -14,7 +14,7 @@
     }
   },
   "display": {
-    "title": "Elytras",
+    "title": "鞘翅",
     "description": [
       "<subtitle id=\"6009E609348A3038\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
       "<hr/>",

@@ -21,7 +21,7 @@
   "rewards": {},
   "display": {
     "subtitle": {
-      "translate": "收集一个金锭。"
+      "translate": "获得一个金锭。"
     },
     "description": [
       "<subtitle id=\"1060064624553EF9\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",

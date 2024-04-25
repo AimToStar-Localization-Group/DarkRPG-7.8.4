@@ -2,13 +2,13 @@
   "settings": {},
   "tasks": {
     "35563D442142DE5F": {
-      "title": "Traveler's Backpack",
+      "title": "旅行者背包",
       "type": "heracles:check"
     }
   },
   "rewards": {},
   "display": {
-    "title": "Traveler's Backpack",
+    "title": "旅行者背包",
     "description": [
       "<subtitle id=\"7E9302E80D741D05\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
       "<hr/>",
@@ -20,7 +20,7 @@
       "item": "travelersbackpack:creeper"
     },
     "subtitle": {
-      "text": "用背包来带东西可谓是再好不过了。来制造属于你的第一个背包吧！点击任务检查标志以继续。"
+      "text": "用背包来带东西可谓是再好不过了。来制造属于你的第一个背包吧！点击任务检查标记以继续。"
     },
     "groups": {
       "背包": {
