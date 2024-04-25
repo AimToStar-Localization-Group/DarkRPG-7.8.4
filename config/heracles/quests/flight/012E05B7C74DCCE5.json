@@ -29,7 +29,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/gears.png",
     "subtitle": {
-      "text": "You can craft different types of aircrafts and fly around the map. Search for Immersive Aircraft in EMI/JEI for plane recipes."
+      "text": "你可以通过制造各种各样的飞行器来探索地图。在EMI/JEI中搜索沉浸式飞机（Immersive Aircraft）来获取飞机配方。"
     },
     "groups": {
       "飞行": {

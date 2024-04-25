@@ -32,7 +32,7 @@
   },
   "display": {
     "subtitle": {
-      "translate": "将背包和皮革以及铁等级升级放置在锻造台中来升级背包。点击任务列表以继续。\n"
+      "translate": "将背包和皮革以及铁等级升级放置在锻造台中来升级背包。点击任务检查标志以继续。\n"
     },
     "description": [
       "<subtitle id=\"726003B7D88799E7\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",

@@ -30,7 +30,7 @@
   },
   "display": {
     "subtitle": {
-      "translate": "Diamonds are the primary source of currency in DarkRPG. Use the command /diamonds to check your balance and deposit diamonds into your currency pouch."
+      "translate": "在DarkRPG中，钻石是货币的最主要来源。使用指令/diamonds来查询你的余额并同时将钻石转换到余额中。"
     },
     "description": [
       "<subtitle id=\"42853D1367885CAE\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",

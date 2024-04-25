@@ -2,7 +2,7 @@
   "dependencies": [],
   "tasks": {
     "3385092D1622EF25": {
-      "title": "各种Boss",
+      "title": "Bosses",
       "icon": {
         "item": {
           "id": "minecraft:air",
@@ -35,7 +35,7 @@
   },
   "display": {
     "subtitle": {
-      "translate": "There are many 各种Boss to defeat in DarkRPG. The summon information for 各种Boss is found via the advancement section. Press [L] then click on the Dark各种Boss dragon head icon to view more information.\n"
+      "translate": "在DarkRPG中有很多Boss等着你去挑战。在进度中你可以找到关于Boss的刷新信息。按[L]键然后点击暗黑Boss龙首图标来获取更多信息。\n"
     },
     "description": [
       "<subtitle id=\"2AB037853C949F72\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",

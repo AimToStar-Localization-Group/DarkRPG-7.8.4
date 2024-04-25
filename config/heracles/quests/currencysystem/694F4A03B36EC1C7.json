@@ -29,7 +29,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/hearts.png",
     "subtitle": {
-      "text": "Use the command /auc to view the auction house. Here you can buy and sell items to/from other players."
+      "text": "通过使用/auc指令来浏览拍卖行。在这里你可以和别的玩家互相购买/售卖物品。"
     },
     "groups": {
       "货币系统": {

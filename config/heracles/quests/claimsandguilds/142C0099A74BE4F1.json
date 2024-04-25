@@ -28,7 +28,7 @@
       "item": "minecraft:oak_boat"
     },
     "subtitle": {
-      "text": "You can make a claim by opening the world map [M] then right-click drag the area you want to claim. Members of your party will also have access to the claims."
+      "text": "你可以通过按[M]打开世界地图，然后右键拖动区块，随后点击认领即可认领你选择的区块。同时，你队伍中的所有成员也都可以访问你认领的区块。"
     },
     "groups": {
       "区块认领和公会": {

@@ -30,7 +30,7 @@
   },
   "display": {
     "subtitle": {
-      "translate": "Use the command /openpac-parties to form a basic party. Use the command /guild to create a guild. Use the command /guild settings hq set to set your guild hall location. Use /guild hq to teleport to your guild hq.\n"
+      "translate": "使用/openpac-parties指令来创建一个队伍。使用/guild指令来创建公会。使用/guild settings hq set来设置你公会的大厅位置。使用/guild hq来传送至你的公会hq。\n"
     },
     "description": [
       "<subtitle id=\"38B97563FACC052F\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
@@ -57,7 +57,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Parties and Guilds"
+      "translate": "区块认领和公会"
     }
   },
   "settings": {

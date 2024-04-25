@@ -29,7 +29,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/rounded_squares.png",
     "subtitle": {
-      "text": "Obtain an elytra or choose an origin that allows you to fly."
+      "text": "寻找鞘翅或选择可以飞行的起源。"
     },
     "groups": {
       "飞行": {

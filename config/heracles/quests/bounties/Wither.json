@@ -39,9 +39,9 @@
       "text": ""
     },
     "description": [
-      "**Kill the Wither to get a reward.**",
+      "**击杀凋零来获得奖励**",
       "",
-      "--This is a repeatable task.--"
+      "--此任务可重复完成--"
     ],
     "groups": {
       "赏金任务": {
@@ -60,7 +60,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/gears.png",
     "title": {
-      "translate": "Wither"
+      "translate": "凋零"
     }
   },
   "settings": {
