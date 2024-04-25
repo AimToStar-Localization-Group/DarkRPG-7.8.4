@@ -1,0 +1,41 @@
+{
+  "dependencies": [],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "加入我们的汉化吹水群参与周边讨论！\n随时反馈汉化问题、及时获取汉化更新、和群友聊天吹水！\n群号：310186303"
+    },
+    "description": [
+      "加入我们的汉化吹水群参与周边讨论！",
+      "随时反馈汉化问题、及时获取汉化更新、和群友聊天吹水！",
+      "群号：310186303"
+    ],
+    "groups": {
+      "指星汉化组": {
+        "position": [
+          -128,
+          -30
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "croptopia:water_bottle",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "汉化组吹水群"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

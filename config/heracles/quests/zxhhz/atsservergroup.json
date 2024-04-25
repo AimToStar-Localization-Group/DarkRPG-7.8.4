@@ -1,0 +1,41 @@
+{
+  "dependencies": [],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "加入指星公益服！\n主打各种整合包轮换！100%纯公益运行，同时也接受离线玩家！\n群号：776012911"
+    },
+    "description": [
+      "加入指星公益服！",
+      "主打各种整合包轮换！100%纯公益运行，同时也接受离线玩家！",
+      "群号：776012911"
+    ],
+    "groups": {
+      "指星汉化组": {
+        "position": [
+          -96,
+          16
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "plushables:heart_of_gold",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "指星公益服"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}
