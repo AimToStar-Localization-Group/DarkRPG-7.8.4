@@ -21,7 +21,7 @@
   "rewards": {},
   "display": {
     "subtitle": {
-      "translate": "Craft a chest."
+      "translate": "制造一个箱子。"
     },
     "description": [
       "<subtitle id=\"0F49850DA3B40666\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
@@ -46,7 +46,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Chest"
+      "translate": "箱子"
     }
   },
   "settings": {

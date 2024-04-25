@@ -37,7 +37,7 @@
   },
   "display": {
     "subtitle": {
-      "translate": "You can craft different types of backpacks and get unique effects. Craft a diamond backpack."
+      "translate": "你可以通过制造不同类型的背包来获得特定的效果。制造一个钻石背包。"
     },
     "description": [
       "<subtitle id=\"0E275CD1A91F309E\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
@@ -64,7 +64,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Diamond Backpack"
+      "translate": "钻石背包"
     }
   },
   "settings": {

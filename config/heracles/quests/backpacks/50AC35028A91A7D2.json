@@ -35,7 +35,7 @@
   },
   "display": {
     "subtitle": {
-      "translate": "Craft your first backpack! Use EMI/JEI to view its recipe layout."
+      "translate": "制造你的第一个背包！用EMI/JEI来获取它的配方。"
     },
     "description": [
       "<subtitle id=\"50AC35028A91A7D2\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
@@ -62,7 +62,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Traveler's Backpack"
+      "translate": "旅行者背包"
     }
   },
   "settings": {

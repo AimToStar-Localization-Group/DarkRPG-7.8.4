@@ -21,7 +21,7 @@
   "rewards": {},
   "display": {
     "subtitle": {
-      "translate": "Obtain 4x Leather."
+      "translate": "收集4个皮革。"
     },
     "description": [
       "<subtitle id=\"6760E7AE17D1132F\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
@@ -46,7 +46,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Leather"
+      "translate": "皮革"
     }
   },
   "settings": {

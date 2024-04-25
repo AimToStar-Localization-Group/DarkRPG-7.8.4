@@ -18,7 +18,7 @@
   "rewards": {},
   "display": {
     "subtitle": {
-      "translate": "Craft any type of sleeping back then click the checkmark to continue."
+      "translate": "制造任意种类的睡袋后点击任务列表以继续。"
     },
     "description": [
       "<subtitle id=\"2786E1EF252AA9D1\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
@@ -43,7 +43,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Sleeping Bag"
+      "translate": "睡袋"
     }
   },
   "settings": {

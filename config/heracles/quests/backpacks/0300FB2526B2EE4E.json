@@ -21,7 +21,7 @@
   "rewards": {},
   "display": {
     "subtitle": {
-      "translate": "Craft 2x Backpack Tanks."
+      "translate": "制造2个背包储罐。"
     },
     "description": [
       "<subtitle id=\"0300FB2526B2EE4E\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
@@ -46,7 +46,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Backpack Tank"
+      "translate": "背包储罐"
     }
   },
   "settings": {

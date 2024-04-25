@@ -21,7 +21,7 @@
   "rewards": {},
   "display": {
     "subtitle": {
-      "translate": "It's time to upgrade your backpack. You can increase a backpack's capacity by upgrading. Craft a Blank Upgrade."
+      "translate": "是时候升级你的背包了。你可以通过升级来增加背包的容量。制造一个空白升级。"
     },
     "description": [
       "<subtitle id=\"2CCF7E009385CD1C\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
@@ -46,7 +46,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Blank Upgrade"
+      "translate": "空白升级"
     }
   },
   "settings": {

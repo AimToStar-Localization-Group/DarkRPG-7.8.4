@@ -21,7 +21,7 @@
   "rewards": {},
   "display": {
     "subtitle": {
-      "translate": "Obtain a Gold Ingot"
+      "translate": "收集一个金锭。"
     },
     "description": [
       "<subtitle id=\"1060064624553EF9\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
@@ -46,7 +46,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Gold Ingot"
+      "translate": "金锭"
     }
   },
   "settings": {

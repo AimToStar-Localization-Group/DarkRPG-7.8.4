@@ -21,7 +21,7 @@
   "rewards": {},
   "display": {
     "subtitle": {
-      "translate": "Craft an Iron Tier Upgrade."
+      "translate": "制造一个铁等级升级。"
     },
     "description": [
       "<subtitle id=\"24017623F622E728\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
@@ -46,7 +46,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Iron Tier Upgrade"
+      "translate": "铁等级升级"
     }
   },
   "settings": {
