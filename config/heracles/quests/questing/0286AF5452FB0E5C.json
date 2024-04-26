@@ -32,7 +32,7 @@
   },
   "display": {
     "subtitle": {
-      "translate": "Quests are now done via the advancements section. Press [L] then click on the DarkQuesting Book icon to start quests. Make sure to clear inventory space before doing a quest. Item rewards go straight into inventory.\n"
+      "translate": "任务已设置在进度列表。按[L]键然后点击暗黑任务书图标开启任务。做任务前，请确保背包中有空格，物品奖励将会直接放进你的物品栏。\n"
     },
     "description": [
       "<subtitle id=\"0286AF5452FB0E5C\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",

@@ -32,7 +32,7 @@
   },
   "display": {
     "subtitle": {
-      "translate": "Welcome to the DarkRPG Modpack! Use the group list on the left as a mini-guide to the modpack. Click the checkmark to recieve your first reward.\n"
+      "translate": "欢迎来到DarkRPG整合包！左侧的任务列表将作为本整合包的迷你指南。点击检查标记来领取你的第一份奖励。\n"
     },
     "description": [
       "<subtitle id=\"5B5E9C6CD6CD087E\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",

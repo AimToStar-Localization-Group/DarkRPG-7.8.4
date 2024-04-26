@@ -32,7 +32,7 @@
   },
   "display": {
     "subtitle": {
-      "translate": "Craft an Orb of Origin to change your origin and class. Press [O] to view your current origin information. Here is a free Orb of Origin to get your started!\n"
+      "translate": "通过合成起源之球来更改你的起源和职业。按[O]键来查看你目前的起源信息。送你一个免费的起源之球，试试看吧！\n"
     },
     "description": [
       "<subtitle id=\"2AFC15AAA61031B3\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",

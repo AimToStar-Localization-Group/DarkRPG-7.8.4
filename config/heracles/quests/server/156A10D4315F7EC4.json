@@ -2,7 +2,7 @@
   "dependencies": [],
   "tasks": {
     "5FCBE35DBD54B482": {
-      "title": "Get a Server",
+      "title": "获取服务器",
       "icon": {
         "item": {
           "id": "minecraft:air",
@@ -23,13 +23,13 @@
         },
         "type": "heracles:item"
       },
-      "command": "tellraw @s [\"\",{\"text\":\"Get a Server\",\"color\":\"green\",\"underlined\":\"true\",\"bold\":\"true\", \"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.bisecthosting.com/gamerpotion\"}},\"\"]",
+      "command": "tellraw @s [\"\",{\"text\":\"获取服务器\",\"color\":\"green\",\"underlined\":\"true\",\"bold\":\"true\", \"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.bisecthosting.com/gamerpotion\"}},\"\"]",
       "type": "heracles:command"
     }
   },
   "display": {
     "subtitle": {
-      "translate": "Get a server today and play with your friends! Use the checkmark to generate a link to get a DarkRPG server and start playing today!\n"
+      "translate": "立即获取一个与好友同乐的服务器！点击任务检查标记以在聊天栏中生成链接，立即打开获得与好友同乐的DarkRPG服务器吧！\n"
     },
     "description": [
       "<subtitle id=\"156A10D4315F7EC4\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",

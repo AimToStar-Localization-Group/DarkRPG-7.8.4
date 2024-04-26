@@ -2,7 +2,7 @@
   "dependencies": [],
   "tasks": {
     "7FF7ADC1745E3CBD": {
-      "title": "Death Wish",
+      "title": "虎胆追凶",
       "icon": {
         "item": {
           "id": "minecraft:air",
@@ -30,7 +30,7 @@
   },
   "display": {
     "subtitle": {
-      "translate": "If you ever get stuck or want to quickly return to your last spawn, you may wish to ask for a death wish. Use the command /trigger darkdeath to kill your character. You will not lose any items.\n"
+      "translate": "如果你被卡死或者想快速返回最后的重生点，这时你或许会想到“去世”，使用指令/trigger darkdeath来杀死你自己，死亡不会掉落物品。\n"
     },
     "description": [
       "<subtitle id=\"1911135F184B58B4\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
@@ -57,7 +57,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Death Wish"
+      "translate": "虎胆追凶"
     }
   },
   "settings": {
