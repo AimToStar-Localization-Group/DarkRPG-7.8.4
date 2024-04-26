@@ -35,7 +35,7 @@
   },
   "display": {
     "subtitle": {
-      "translate": "制造你的第一个背包！用EMI/JEI来获取它的配方。"
+      "translate": "合成你的第一个背包！用EMI/JEI来获取它的配方。"
     },
     "description": [
       "<subtitle id=\"50AC35028A91A7D2\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",

@@ -21,7 +21,7 @@
   "rewards": {},
   "display": {
     "subtitle": {
-      "translate": "制造一个箱子。"
+      "translate": "合成一个箱子。"
     },
     "description": [
       "<subtitle id=\"0F49850DA3B40666\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",

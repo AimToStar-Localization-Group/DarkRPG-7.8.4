@@ -18,7 +18,7 @@
   "rewards": {},
   "display": {
     "subtitle": {
-      "translate": "制造任意种类的睡袋后点击任务检查标记以继续。"
+      "translate": "合成任意种类的睡袋后点击任务检查标记以继续。"
     },
     "description": [
       "<subtitle id=\"2786E1EF252AA9D1\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",

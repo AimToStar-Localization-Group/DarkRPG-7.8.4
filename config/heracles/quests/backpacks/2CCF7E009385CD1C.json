@@ -21,7 +21,7 @@
   "rewards": {},
   "display": {
     "subtitle": {
-      "translate": "是时候升级你的背包了。你可以通过升级来增加背包的容量。制造一个空白升级。"
+      "translate": "是时候升级你的背包了。你可以通过升级来增加背包的容量。合成一个空白升级。"
     },
     "description": [
       "<subtitle id=\"2CCF7E009385CD1C\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",

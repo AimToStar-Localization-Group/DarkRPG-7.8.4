@@ -37,7 +37,7 @@
   },
   "display": {
     "subtitle": {
-      "translate": "你可以通过制造不同类型的背包来获得特定的效果。制造一个钻石背包。"
+      "translate": "你可以通过合成不同类型的背包来获得特定的效果。合成一个钻石背包。"
     },
     "description": [
       "<subtitle id=\"0E275CD1A91F309E\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",

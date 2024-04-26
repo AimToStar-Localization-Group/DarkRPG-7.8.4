@@ -21,7 +21,7 @@
   "rewards": {},
   "display": {
     "subtitle": {
-      "translate": "制造一个铁等级升级。"
+      "translate": "合成一个铁等级升级。"
     },
     "description": [
       "<subtitle id=\"24017623F622E728\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
