@@ -2,7 +2,7 @@
   "settings": {},
   "tasks": {
     "6B6E6EC5B18EDD03": {
-      "title": "Spawn",
+      "title": "出生点",
       "type": "heracles:check"
     }
   },
@@ -14,7 +14,7 @@
     }
   },
   "display": {
-    "title": "Spawn",
+    "title": "出生点",
     "description": [
       "<subtitle id=\"7B555B734B3A85FF\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
       "<hr/>",
@@ -28,7 +28,7 @@
       "item": "minecraft:red_bed"
     },
     "subtitle": {
-      "text": "Use the command /trigger darkspawn to teleport to a fixed spawn/lobby location. This location can be changed by using a datapack. Visit the discord channel for more information."
+      "text": "使用指令/trigger darkspawn来传送至一个固定的出生点/大厅。该位置可以通过数据包进行修改。浏览Discord频道以获取更多信息。"
     },
     "groups": {
       "随机传送和出生点": {

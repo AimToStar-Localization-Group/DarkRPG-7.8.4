@@ -2,7 +2,7 @@
   "dependencies": [],
   "tasks": {
     "67A872D83E2F9827": {
-      "title": "RTP (Random Teleport)",
+      "title": "RTP（随机传送）",
       "icon": {
         "item": {
           "id": "minecraft:air",
@@ -30,7 +30,7 @@
   },
   "display": {
     "subtitle": {
-      "translate": "Use the command /trigger darkrtp to randomly teleport to another location.\n"
+      "translate": "使用指令/trigger darkrtp来随机传送至某一位置。\n"
     },
     "description": [
       "<subtitle id=\"0F4435AA37075884\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
@@ -57,7 +57,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "RTP (Random Teleport)"
+      "translate": "RTP（随机传送）"
     }
   },
   "settings": {

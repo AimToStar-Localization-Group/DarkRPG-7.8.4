@@ -2,7 +2,7 @@
   "settings": {},
   "tasks": {
     "042171832574F04F": {
-      "title": "Multiplayer",
+      "title": "多人游戏",
       "type": "heracles:check"
     }
   },
@@ -14,7 +14,7 @@
     }
   },
   "display": {
-    "title": "Multiplayer",
+    "title": "多人游戏",
     "description": [
       "<subtitle id=\"61D21AA16A3CD795\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
       "<hr/>",
@@ -29,7 +29,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/rounded_squares.png",
     "subtitle": {
-      "text": "You can also play on the official servers by joining a server in the MMO section. Remember to respect others. Do not do PVP without permission and don't steal boss drops."
+      "text": "你也可以在多人游戏中选择加入官方服务器，切记尊重他人，不要无端PVP和偷拿BOSS掉落物。"
     },
     "groups": {
       "服务器": {

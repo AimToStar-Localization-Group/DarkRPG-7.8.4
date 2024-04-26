@@ -2,7 +2,7 @@
   "settings": {},
   "tasks": {
     "023B21BB342EED5C": {
-      "title": "Waystones",
+      "title": "传送石碑",
       "type": "heracles:check"
     }
   },
@@ -16,7 +16,7 @@
     }
   },
   "display": {
-    "title": "Waystones",
+    "title": "传送石碑",
     "description": [
       "<subtitle id=\"202A43CD8FB1CE0B\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
       "<hr/>",
@@ -31,7 +31,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/rounded_squares.png",
     "subtitle": {
-      "text": "Waystones are a great way to teleport around the map and to your friend's location. Craft a waystone or find them in villages."
+      "text": "通过传送石碑在地图或朋友家进行传送是一个很好的方法。合成一个传送石碑或者在村庄中寻找它吧。"
     },
     "groups": {
       "传送石碑": {
