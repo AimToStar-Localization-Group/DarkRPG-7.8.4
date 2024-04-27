@@ -3,8 +3,8 @@
     "icon": {
       "item": "spellbladenext:frozen_head"
     },
-    "title": "Swag Hat",
-    "description": "Obtain a Mageseeker Hat",
+    "title": "这帽子泰裤辣",
+    "description": "获取一顶寻法之帽",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

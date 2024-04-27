@@ -4,7 +4,7 @@
       "item": "spellbladenext:arcane_blade"
     },
     "title": "Spellblades and Such",
-    "description": "Is it a sword or just a sharp wand?",
+    "description": "剑？还是能施放魔法的锋利法杖？",
     "background": "minecraft:textures/block/chiseled_quartz_block.png",
     "frame": "task",
     "show_toast": false,

@@ -3,8 +3,8 @@
     "icon": {
       "item": "spellbladenext:blazing_head"
     },
-    "title": "The Chains That Bind",
-    "description": "Obtain a Magebreaker Helmet",
+    "title": "束缚之炼",
+    "description": "获得一顶破法头盔",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

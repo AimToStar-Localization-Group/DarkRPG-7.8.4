@@ -3,8 +3,8 @@
     "icon": {
       "item": "spellbladenext:arcane_blade"
     },
-    "title": "Fine. B-L-A-D-E.",
-    "description": "Obtain all three basic Spellblades",
+    "title": "女子。佥刂。",
+    "description": "获取所有三柄魔剑",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

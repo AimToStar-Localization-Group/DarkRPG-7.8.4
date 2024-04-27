@@ -3,8 +3,8 @@
     "icon": {
       "item": "spellbladenext:flaming_falchion"
     },
-    "title": "God, Take The Wheel",
-    "description": "Obtain a Flaming Falchion",
+    "title": "神啊，净化我吧",
+    "description": "获取一柄赤燃之刃",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

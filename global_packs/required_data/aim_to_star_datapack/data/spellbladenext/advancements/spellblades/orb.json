@@ -3,8 +3,8 @@
     "icon": {
       "item": "spellbladenext:arcane_orb"
     },
-    "title": "Orbiting My Pond",
-    "description": "Obtain all three orbs",
+    "title": "法球在转，我也在绕着法球转",
+    "description": "获取所有三颗法球",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

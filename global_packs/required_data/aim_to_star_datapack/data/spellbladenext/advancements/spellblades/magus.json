@@ -3,8 +3,8 @@
     "icon": {
       "item": "spellbladenext:prismatic"
     },
-    "title": "The Black Wind Howls...",
-    "description": "Face Magus",
+    "title": "阴风呼嚎……",
+    "description": "直面大咒术师",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

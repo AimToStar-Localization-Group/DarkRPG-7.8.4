@@ -3,8 +3,8 @@
     "icon": {
       "item": "spellbladenext:ashes"
     },
-    "title": "Symmetry and Harmony",
-    "description": "Obtain Ashes of the Stars",
+    "title": "对称与协调",
+    "description": "获取群星之灰",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

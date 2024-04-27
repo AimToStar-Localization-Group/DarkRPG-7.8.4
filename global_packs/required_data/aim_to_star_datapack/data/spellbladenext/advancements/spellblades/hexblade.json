@@ -3,8 +3,8 @@
     "icon": {
       "item": "spellbladenext:hexbladeitem"
     },
-    "title": "Shadow Wizard Money Gang",
-    "description": "Initiate hostilities with a Hexblade Magister",
+    "title": "一群搞钱暗影巫师",
+    "description": "向一名咒剑会教士展现敌意",
     "show_toast": true,
     "announce_to_chat": true
   },

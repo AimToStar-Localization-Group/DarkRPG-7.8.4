@@ -3,8 +3,8 @@
     "icon": {
       "item": "spellbladenext:omni"
     },
-    "title": "Incandescence",
-    "description": "Obtain Crystallised Omniscience",
+    "title": "炽热难耐",
+    "description": "获取结晶全知",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
