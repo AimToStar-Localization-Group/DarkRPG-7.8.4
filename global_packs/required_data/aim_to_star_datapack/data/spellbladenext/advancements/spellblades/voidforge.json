@@ -3,8 +3,8 @@
     "icon": {
       "item": "spellbladenext:voidforge"
     },
-    "title": "The Thrill of the Void",
-    "description": "Obtain Voidforge",
+    "title": "来自虚空的狂喜",
+    "description": "获取无铸之刃",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
