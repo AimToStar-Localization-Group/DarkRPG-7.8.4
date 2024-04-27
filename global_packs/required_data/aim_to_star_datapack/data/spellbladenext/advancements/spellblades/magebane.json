@@ -3,8 +3,8 @@
     "icon": {
       "item": "spellbladenext:gleaming_head"
     },
-    "title": "Heavy is the Head",
-    "description": "Obtain a Magebane Crown",
+    "title": "必承其重",
+    "description": "获取一顶克法之冠",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
