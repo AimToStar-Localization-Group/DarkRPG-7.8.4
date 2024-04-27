@@ -3,8 +3,8 @@
     "icon": {
       "item": "spellbladenext:starforge"
     },
-    "title": "Well Done, Little Mouse",
-    "description": "Obtain Starforge",
+    "title": "干的不错，小不点",
+    "description": "获取铸星之刃",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
