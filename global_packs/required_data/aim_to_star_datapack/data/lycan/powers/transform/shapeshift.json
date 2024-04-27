@@ -1,0 +1,13 @@
+{
+    "name": "Shapeshifter",
+    "description": "As an intelligent human-wolf hybrid, you are able to shift at will, heightening your abilities and growing in size.",
+    "condition": {
+        "type": "origins:food_level",
+        "comparison": ">",
+        "compare_to": 6
+    },
+    "type": "origins:toggle",
+    "active_by_default": false,
+    "key": "primary",
+    "retain_state": false
+}

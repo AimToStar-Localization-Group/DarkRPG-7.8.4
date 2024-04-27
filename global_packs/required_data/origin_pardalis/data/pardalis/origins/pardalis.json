@@ -1,0 +1,33 @@
+{
+    "name": "Pardalis",
+    "description": "A unique and evolved species of Ocelot known as Pardalis have a specialty in mobility.",
+    "powers": [
+        "pardalis:credit",
+        "pardalis:slide",
+        "pardalis:double",
+        "pardalis:leap",
+        "pardalis:run",
+        "pardalis:jump",
+        "pardalis:purr",
+        "pardalis:felinus",
+        "pardalis:attributes",
+        "pardalis:respawn",
+        "pardalis:phantom",
+        "pardalis:effect",
+        "pardalis:nocturnal",
+        "pardalis:food",
+        "pardalis:meter",
+        "pardalis:hidden",
+        "pardalis:hidden2",
+        "pardalis:hiddenr",
+        "pardalis:hiddens",
+        "pardalis:overheat",
+        "pardalis:swim",
+        "pardalis:ocelot",
+        "pardalis:noheal"
+    ],
+    "icon": {
+       "item": "yellow_wool"
+    },
+    "impact": 2
+}

@@ -1,0 +1,11 @@
+{
+  "type": "origins:modify_crafting",
+  "recipe": "minecraft:paper",
+  "result": 
+  {
+  "item": "minecraft:stone_sword",
+  "tag": "{Enchantments: [{id: \"minecraft:sharpness\", lvl: 1s}]}"
+  },
+  "name": "剪纸",
+  "description": "合成纸时会给你一把带有锋利的石剑。"
+}

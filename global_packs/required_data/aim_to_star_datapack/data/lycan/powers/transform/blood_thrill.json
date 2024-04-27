@@ -1,0 +1,12 @@
+{
+    "name": "Thrill of the Hunt",
+    "description": "Transformed, the thrill of the hunt flows through you (you can only be satiated through hunting).",
+    "condition": {
+        "type": "origins:power_active",
+        "power": "lycan:transform/shapeshift"
+    },
+    "type": "origins:prevent_item_use",
+    "item_condition": {
+        "type": "origins:food"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Blood Drive",
+    "description": "Transformed, you will slowly lose appetite; feed to maintain the shift.",
+    "condition": {
+        "type": "origins:power_active",
+        "power": "lycan:transform/shapeshift"
+    },
+    "type": "origins:exhaust",
+    "interval": 20,
+    "exhaustion": 2
+}

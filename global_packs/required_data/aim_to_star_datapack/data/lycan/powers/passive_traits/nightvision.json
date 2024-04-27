@@ -1,0 +1,8 @@
+{
+    "name": "Natural Infrared",
+    "description": "Your eyes glow infrared, granting superior vision in darker areas.",
+    "type": "origins:toggle_night_vision",
+    "active_by_default": false,
+    "strength": 1,
+    "key": "secondary"
+}

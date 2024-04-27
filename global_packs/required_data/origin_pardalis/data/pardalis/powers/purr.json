@@ -1,0 +1,93 @@
+{
+   "type":"origins:multiple",
+   "name": "Private Eye",
+   "description": "Your scissor like teeth can pierce enemies skin, this causes them to glow and speed up from adrenaline whilst slowing you down and giving you a slight damage buff.",
+   "onhit1": {
+      "type": "origins:target_action_on_hit",
+      "entity_action": {
+         "type": "origins:and",
+         "actions": [
+            {
+               "type": "origins:apply_effect",
+               "effect": {
+                  "effect": "minecraft:speed",
+                  "duration": 60,
+                  "amplifier": 1,
+                  "show_particles": false,
+                  "show_icon": false
+               }
+            },
+            {
+               "type": "origins:apply_effect",
+               "effect": {
+                  "effect": "minecraft:glowing",
+                  "duration": 60,
+                  "amplifier": 0,
+                  "show_particles": false,
+                  "show_icon": false
+               }
+            },
+            {
+               "type": "origins:execute_command",
+               "command":"playsound minecraft:entity.phantom.bite hostile @a[distance=..5] ~ ~ ~ 0.3 2"
+            },
+            {
+               "type": "origins:execute_command",
+               "command":"playsound minecraft:entity.cat.hiss ambient @a[distance=..5] ~ ~ ~ 0.8 3"
+            },
+            {
+               "type": "origins:execute_command",
+               "command":"playsound minecraft:block.glass.break ambient @a[distance=..5] ~ ~ ~ 1 1.86"
+            },
+            {
+               "type": "origins:execute_command",
+               "command":"playsound minecraft:item.lodestone_compass.lock ambient @a[distance=..5] ~ ~ ~ 0.2 1"
+            },
+            {
+               "type": "origins:execute_command",
+               "command":"particle minecraft:dust 0.53 0.03 0.03 1 ~ ~ ~ 0.7 0.7 0.7 0.1 100"
+            }
+         ]
+      },
+      "cooldown": 50,
+      "hud_render": {
+         "should_render": false
+      }
+   },
+   "onhit2": {
+      "type": "origins:self_action_on_hit",
+      "entity_action": {
+         "type": "origins:and",
+         "actions": [
+            {
+               "type": "origins:apply_effect",
+               "effect": {
+                  "effect": "minecraft:slowness",
+                  "duration": 60,
+                  "amplifier": 1,
+                  "show_particles": false,
+                  "show_icon": false
+               }
+            },
+            {
+               "type": "origins:apply_effect",
+               "effect": {
+                  "effect": "minecraft:strength",
+                  "duration": 60,
+                  "amplifier": 0,
+                  "show_particles": false,
+                  "show_icon": false
+               }
+            },
+            {
+               "type":"origins:execute_command",
+               "command":"particle minecraft:dust 1 1 0.33 1 ~ ~ ~ 1 1 1 1 40"
+            }
+         ]
+      },
+      "cooldown":50,
+      "hud_render":{
+         "should_render":false
+      }
+   }
+}

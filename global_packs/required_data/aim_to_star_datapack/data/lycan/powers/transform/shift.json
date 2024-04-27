@@ -1,0 +1,17 @@
+{
+    "hidden": true,
+    "condition": {
+        "type": "origins:power_active",
+        "power": "lycan:transform/shapeshift"
+    },
+    "type": "origins:action_over_time",
+    "interval": 20,
+    "rising_action": {
+        "type": "origins:execute_command",
+        "command": "scale set pehkui:base 2"
+    },
+    "falling_action": {
+        "type": "origins:execute_command",
+        "command": "scale reset"
+    }
+}

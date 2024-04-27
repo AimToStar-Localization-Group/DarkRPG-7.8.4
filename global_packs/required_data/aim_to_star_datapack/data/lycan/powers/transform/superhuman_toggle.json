@@ -1,0 +1,56 @@
+{
+    "description": "-increased hp\n-increased speed\n-increased damage\n-increased jump\n-increased attackspeed",
+    "hidden": true,
+    "type": "origins:multiple",
+    "key0": {
+        "condition": {
+            "type": "origins:power_active",
+            "power": "lycan:transform/shapeshift"
+        },
+        "type": "origins:conditioned_attribute",
+        "modifiers": [
+            {
+                "attribute": "minecraft:generic.max_health",
+                "operation": "addition",
+                "value": 12
+            },
+            {
+                "attribute": "minecraft:generic.movement_speed",
+                "operation": "addition",
+                "value": 0.03
+            },
+            {
+                "attribute": "minecraft:generic.attack_damage",
+                "operation": "addition",
+                "value": 5
+            },
+            {
+                "attribute": "generic.knockback_resistance",
+                "operation": "addition",
+                "value": 4
+            },
+            {
+                "attribute": "generic.attack_speed",
+                "operation": "addition",
+                "value": 2
+            }
+        ],
+        "tick_rate": 20,
+        "update_health": true
+    },
+    "key1": {
+        "condition": {
+            "type": "origins:power_active",
+            "power": "lycan:transform/shapeshift"
+        },
+        "type": "origins:modify_jump",
+        "modifier": {
+            "operation": "addition",
+            "value": 0.15
+        },
+        "entity_action": {
+            "type": "origins:execute_command",
+            "command": "particle cloud ~ ~ ~ 0.3 0.3 0.3 0.01 16 normal @a"
+        }
+    }
+}

@@ -29,7 +29,7 @@
   "filled_map.dungeons_arise:illager_galley": "灾厄桨帆船·探险家地图",
   "filled_map.dungeons_arise:mushroom_house": "蘑菇小屋·探险家地图",
 
-  "advancement.dungeons_arise.wda_root.title": "地牢浮现之时",
+  "advancement.dungeons_arise.wda_root.title": "当地牢浮现之时",
   "advancement.dungeons_arise.wda_root.desc": "沉睡已久的地牢已经浮现于这世界之中",
   "advancement.dungeons_arise.find_abandoned_temple.title": "那些…未曾述说的故事",
   "advancement.dungeons_arise.find_abandoned_temple.desc": "找到一座废弃寺庙",
@@ -104,5 +104,7 @@
   "advancement.dungeons_arise.find_undead_pirate_ship.title": "海上迷雾",
   "advancement.dungeons_arise.find_undead_pirate_ship.desc": "找到一艘幽灵海盗船",
   "advancement.dungeons_arise.find_wishing_well.title": "跳吧！",
-  "advancement.dungeons_arise.find_wishing_well.desc": "找到一口许愿井"
+  "advancement.dungeons_arise.find_wishing_well.desc": "找到一口许愿井",
+  "advancement.dungeons_arise.find_mechanical_nest.title": "欢迎来到机械的国度",
+  "advancement.dungeons_arise.find_mechanical_nest.desc": "找到一座机械天空城"
 }

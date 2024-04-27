@@ -1,0 +1,23 @@
+{
+    "hidden": true,
+    "loading_priority": 15,
+    "type": "origins:action_over_time",
+    "interval": 20,
+    "entity_action": {
+        "type": "origins:if_else_list",
+        "actions": [
+            {
+                "condition": {
+                    "type": "origins:command",
+                    "command": "execute if entity @e[distance=..20,type=minecraft:ocelot]",
+                    "comparison": ">=",
+                    "compare_to": 1
+                },
+                "action": {
+                    "type": "origins:execute_command",
+                    "command": "/data modify entity @e[distance=..20,type=ocelot,limit=1] Trusted[] set from entity @p UUID"
+                }
+            }
+        ]
+    }
+}

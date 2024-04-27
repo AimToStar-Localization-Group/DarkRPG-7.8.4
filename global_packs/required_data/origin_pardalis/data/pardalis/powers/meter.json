@@ -1,0 +1,37 @@
+{
+    "name": "Climate Adapted",
+    "description": "Due to your natural habitat, sprinting or moving too much can cause you to overheat and eventually burn up though you can use water to cool down, you swim better in water as a result of needing to cool down so much.",
+      "badges": [
+           {
+           "type": "origins:keybind",
+           "sprite": "minecraft:textures/item/water_bucket.png",
+           "text": "§f§nDownpour:§r Rain also cools you off though at a much slower rate."
+           },
+           {
+           "type": "origins:keybind",
+           "sprite": "minecraft:textures/mob_effect/unluck.png",
+           "text": "§f§nCool Off:§r Sneaking can also drain your overheating, but this is the lowest out of all options."
+           }
+    ],
+    "type": "origins:resource",
+    "min": 0,
+    "max": 150,
+    "start_value": 0,
+    "hud_render": {
+        "should_render": true,
+        "sprite_location": "origins:textures/gui/resource_bar.png",
+        "bar_index": 7,
+        "condition": {
+            "type": "origins:resource",
+            "resource": "pardalis:meter",
+            "comparison": ">",
+            "compare_to": 0
+        }
+    },
+    "max_action": {
+        "type": "origins:play_sound",
+        "sound": "block.campfire.crackle",
+        "volume": 1,
+        "pitch": 1
+    }
+}

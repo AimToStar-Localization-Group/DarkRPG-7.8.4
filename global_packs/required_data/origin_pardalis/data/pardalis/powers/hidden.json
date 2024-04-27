@@ -1,0 +1,53 @@
+{
+    "name": "hiding",
+    "description": "thats insane",
+    "hidden": true,
+    "type": "origins:multiple",
+    "up": {
+        "condition": {
+            "type": "origins:and",
+            "conditions": [
+                {
+                    "type": "origins:on_block"
+                },
+                {
+                    "type": "origins:sprinting"
+                }
+            ]
+        },
+        "type": "origins:action_over_time",
+        "interval": 3,
+        "entity_action": {
+            "type": "origins:change_resource",
+            "resource": "pardalis:meter",
+            "change": 1,
+            "operation": "add"
+        }
+    },
+    "down": {
+        "name": "discharge",
+        "description": "me when go down",
+        "condition": {
+            "type": "origins:and",
+            "conditions": [
+                {
+                    "type": "origins:or",
+                    "conditions": [
+                        {
+                            "type":"origins:submerged_in",
+                            "fluid": "minecraft:water"
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "origins:action_over_time",
+        "interval": 2,
+        "entity_action": {
+            "type": "origins:change_resource",
+            "resource": "pardalis:meter",
+            "change": -1,
+            "operation": "add"
+        }
+    }
+}

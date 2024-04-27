@@ -1,0 +1,13 @@
+{
+    "name": "Motion Reliant",
+    "description": "You are addicted to the thrill of running to an extent, you cannot heal if you aren't sprinting.",
+    "type": "apoli:modify_healing",
+    "modifier": {
+        "value": -1,
+        "operation": "multiply_total"
+    },
+    "condition": {
+          "type": "origins:sprinting",
+          "inverted": true
+     }
+}

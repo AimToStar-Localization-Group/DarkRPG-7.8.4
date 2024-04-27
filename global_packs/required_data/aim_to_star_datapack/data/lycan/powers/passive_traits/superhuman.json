@@ -1,0 +1,39 @@
+{
+    "name": "Superhuman",
+    "description": "You possess superhuman strength, speed, and durability (increased hp, damage, movement speed, and fall immunity).",
+    "type": "origins:multiple",
+    "key0": {
+        "condition": {
+            "inverted": true,
+            "type": "origins:power_active",
+            "power": "lycan:transform/shapeshift"
+        },
+        "type": "origins:conditioned_attribute",
+        "modifiers": [
+            {
+                "attribute": "minecraft:generic.max_health",
+                "operation": "addition",
+                "value": 4
+            },
+            {
+                "attribute": "minecraft:generic.movement_speed",
+                "operation": "addition",
+                "value": 0.01
+            },
+            {
+                "attribute": "minecraft:generic.attack_damage",
+                "operation": "addition",
+                "value": 1.5
+            }
+        ],
+        "tick_rate": 20,
+        "update_health": true
+    },
+    "key1": {
+        "type": "origins:invulnerability",
+        "damage_condition": {
+            "type": "origins:name",
+            "name": "fall"
+        }
+    }
+}

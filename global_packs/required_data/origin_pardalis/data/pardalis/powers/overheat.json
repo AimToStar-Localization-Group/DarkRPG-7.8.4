@@ -1,0 +1,26 @@
+{
+    "hidden": true,
+    "condition": {
+       "type": "origins:resource",
+       "resource": "pardalis:meter",
+       "comparison": "==",
+       "compare_to": 150
+    },
+    "type": "origins:action_over_time",
+    "interval": 20,
+    "entity_action": {
+        "type": "origins:set_on_fire",
+        "duration": 1
+    },
+    "rising_action": {
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:play_sound",
+                "sound": "entity.player.breath",
+                "volume": 1,
+                "pitch": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+  "hidden": true,
+  "type": "origins:active_self",
+  "cooldown": 60,
+  "hud_render": {
+    "sprite_location": "origins:textures/gui/community/huang/resource_bar_01.png",
+    "bar_index": 3
+  },
+  "condition": {
+       "type": "origins:resource",
+       "resource": "pardalis:slide_check",
+       "comparison": ">=",
+       "compare_to": 1
+   },
+  "entity_action": {
+    "type": "origins:and",
+    "actions": [
+      {
+        "type": "origins:add_velocity",
+        "y": 1,
+        "z": 0.45,
+        "space": "local",
+        "client": false,
+        "server": true
+      },
+      {
+        "type": "origins:play_sound",
+        "sound": "minecraft:entity.cat.purreow"
+      },
+      {
+        "type": "origins:play_sound",
+        "sound": "minecraft:entity.cat.beg_for_food"
+      },
+      {
+        "type": "origins:change_resource",
+        "resource": "pardalis:meter",
+        "change": 10
+      },
+      {
+    "type": "origins:exhaust",
+   "amount": "1.0"
+      }
+    ]
+  }
+}

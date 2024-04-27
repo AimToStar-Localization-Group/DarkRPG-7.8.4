@@ -1,0 +1,64 @@
+{
+    "hidden": true,
+    "type": "origins:multiple",
+    "spd": {
+        "type": "origins:conditioned_attribute",
+        "modifier": {
+            "attribute": "generic.movement_speed",
+            "operation": "multiply_base",
+            "value": 0.4
+        },
+        "condition": {
+            "type": "origins:sprinting"
+        },
+        "tick_rate": 2
+    },
+    "dmgimmune": {
+        "type": "origins:modify_damage_taken",
+        "modifier": {
+            "value": -0.5,
+            "operation": "multiply_total"
+        },
+        "damage_condition": {
+            "type": "origins:or",
+            "conditions": [
+                {
+                    "type": "origins:name",
+                    "name": "arrow"
+                },
+                {
+                    "type": "origins:name",
+                    "name": "lava"
+                },
+                {
+                    "type": "origins:name",
+                    "name": "inFire"
+                },
+                {
+                    "type": "origins:name",
+                    "name": "hotFloor"
+                },
+                {
+                    "type": "origins:name",
+                    "name": "explosion"
+                },
+                {
+                    "type": "origins:name",
+                    "name": "fall"
+                },
+                {
+                    "type": "origins:name",
+                    "name": "stalagmite"
+                },
+                {
+                    "type": "origins:name",
+                    "name": "fallingStalactite"
+                },
+                {
+                    "type": "origins:name",
+                    "name": "sweetBerryBush"
+                }
+            ]
+        }
+    }
+}

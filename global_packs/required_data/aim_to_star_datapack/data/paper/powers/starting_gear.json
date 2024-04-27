@@ -1,0 +1,9 @@
+{
+    "type": "origins:starting_equipment",
+    "stacks": [
+        {"item": "minecraft:sugar_cane","amount": 3},
+        {"item": "minecraft:paper","amount": 5}
+    ],
+    "name": "初始装备",
+    "description": "你出生就带着3根甘蔗和5张纸。"
+}

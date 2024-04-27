@@ -1,0 +1,17 @@
+{
+    "hidden": true,
+    "condition": {
+        "inverted": false,
+        "type": "origins:and",
+        "conditions": [
+            {
+                "type": "origins:sprinting"
+            }
+        ]
+    },
+    "type": "origins:modify_jump",
+    "modifier": {
+        "operation": "multiply_base",
+        "value": 0.4
+    }
+}

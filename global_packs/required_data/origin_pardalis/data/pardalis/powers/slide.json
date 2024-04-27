@@ -1,0 +1,102 @@
+{
+    "name": "Instincts",
+    "description": "You move faster when sprinting and can jump higher too, you're also able to slide (Which allows you to go under one block gaps) and you can double jump.",
+    "badges": [
+        {
+            "type": "origins:tooltip",
+            "text": "§f§nAlways Landing:§r Your second jump will prevent you from taking fall damage.",
+            "sprite": "minecraft:textures/mob_effect/jump_boost.png"
+        },
+        {
+            "type": "origins:keybind",
+            "text": "§f§nNatural Leaper:§r Whilst sliding when you press primary you're able to pounce upwards though this raises your temperature.",
+            "sprite": "minecraft:textures/mob_effect/speed.png"
+        }
+    ],
+    "type": "origins:multiple",
+    "act": {
+        "condition": {
+            "type": "origins:and",
+            "conditions": [
+                {
+                    "type": "origins:on_block"
+                },
+                {
+                    "type": "origins:sprinting"
+                },
+                {
+                    "type": "origins:sneaking"
+                },
+                {
+                    "type": "origins:resource",
+                    "resource": "pardalis:slide_check",
+                    "comparison": "!=",
+                    "compare_to": 10
+                },
+                {
+                    "inverted": true,
+                    "type": "origins:raycast",
+                    "distance": 1,
+                    "block": true,
+                    "entity": false,
+                    "shape_type": "collider",
+                    "fluid_handling": "any"
+                }
+            ]
+        },
+        "type": "origins:swimming"
+    },
+    "check": {
+        "type": "origins:resource",
+        "min": 0,
+        "max": 10,
+        "start_value": 0,
+        "hud_render": {
+            "should_render": false
+        }
+    },
+    "decrease": {
+        "condition": {
+            "type": "origins:and",
+            "conditions": [
+                {
+                    "type": "origins:sprinting"
+                },
+                {
+                    "type": "origins:sneaking"
+                }
+            ]
+        },
+        "type": "origins:active_self",
+        "entity_action": {
+            "type": "origins:change_resource",
+            "resource": "pardalis:slide_check",
+            "change": 1,
+            "operation": "add"
+        },
+        "cooldown": 3,
+        "key": {
+            "key": "key.sneak",
+            "continuous": false
+        }
+    },
+    "reset": {
+        "condition": {
+            "type": "origins:and",
+            "conditions": [
+                {
+                    "inverted": true,
+                    "type": "origins:sneaking"
+                }
+            ]
+        },
+        "type": "origins:action_over_time",
+        "interval": 2,
+        "entity_action": {
+            "type": "origins:change_resource",
+            "resource": "pardalis:slide_check",
+            "change": -1,
+            "operation": "add"
+        }
+    }
+}

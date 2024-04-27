@@ -1,0 +1,54 @@
+{
+    "name": "Felinus",
+    "description": "Like cats you can see better in the dark than others, you are more saturated from fish and meat but you struggle when it comes to mining unless under the haste effect and you only have 9 hearts.",
+    "badges": [
+           {
+              "type": "origins:tooltip",
+              "sprite": "minecraft:textures/block/orange_wool.png",
+              "text": "§f§nCat-like:§r Just like ocelots and cats, you do not have to worry about phantoms."
+           }
+    ],
+    "hidden": false,
+    "condition": {
+        "type": "origins:and",
+        "conditions": [
+            {
+                "inverted": true,
+                "type": "origins:status_effect",
+                "effect": "minecraft:strength"
+            },
+            {
+                "inverted": true,
+                "type": "origins:status_effect",
+                "effect": "minecraft:haste"
+            }
+        ]
+    },
+    "type": "origins:modify_break_speed",
+    "block_condition": {
+        "inverted": false,
+        "type": "origins:and",
+        "conditions": [
+            {
+                "inverted": false,
+                "type": "origins:in_tag",
+                "tag": "origins:natural_stone"
+            },
+            {
+                "inverted": false,
+                "type": "origins:adjacent",
+                "adjacent_condition": {
+                    "inverted": false,
+                    "type": "origins:in_tag",
+                    "tag": "origins:natural_stone"
+                },
+                "comparison": ">=",
+                "compare_to": 3
+            }
+        ]
+    },
+    "modifier": {
+        "operation": "multiply_total",
+        "value": -1
+    }
+}

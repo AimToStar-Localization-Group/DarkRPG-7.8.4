@@ -1,0 +1,14 @@
+{
+    "type": "origins:exhaust",
+    "interval": 20,
+    "exhaustion": 4.0,
+    "condition": {
+        "type": "origins:fluid_height",
+        "fluid": "minecraft:water",
+        "comparison": ">",
+        "compare_to": 0.0
+    },
+	
+  "name": "遇水则化",
+  "description": "与水接触会使你的饥饿值狂掉。"
+}

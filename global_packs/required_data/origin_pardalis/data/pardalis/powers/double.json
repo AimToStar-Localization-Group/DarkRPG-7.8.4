@@ -1,0 +1,76 @@
+{
+    "hidden": true,
+    "type": "origins:multiple",
+    "rc": {
+        "type": "origins:resource",
+        "min": 0,
+        "max": 1
+    },
+    "land": {
+        "type": "origins:action_on_land",
+        "entity_action": {
+            "type": "origins:delay",
+            "action": {
+                "type": "origins:change_resource",
+                "resource": "pardalis:double_rc",
+                "change": 0,
+                "operation": "set"
+            },
+            "ticks": 5
+        }
+    },
+    "jumpingjacks": {
+        "condition": {
+            "type": "origins:and",
+            "conditions": [
+                {
+                    "inverted": true,
+                    "type": "origins:on_block"
+                },
+                {
+                    "type": "origins:resource",
+                    "resource": "pardalis:double_rc",
+                    "comparison": "==",
+                    "compare_to": 0
+                }
+            ]
+        },
+        "type": "origins:active_self",
+        "entity_action": {
+            "type": "origins:and",
+            "actions": [
+                {
+                    "type": "origins:add_velocity",
+                    "y": 0.4,
+                    "z": 0.15,
+                    "space": "local_horizontal",
+                    "client": true,
+                    "server": true
+                },
+                {
+                    "type": "origins:change_resource",
+                    "resource": "pardalis:double_rc",
+                    "change": 1,
+                    "operation": "set"
+                }
+            ]
+        },
+        "hidden": true,
+        "cooldown": 0,
+        "key": {
+            "key": "key.jump"
+        }
+    },
+    "fallimmune": {
+        "condition": {
+            "type": "origins:resource",
+            "resource": "pardalis:double_rc",
+            "comparison": "==",
+            "compare_to": 1
+        },
+        "type": "origins:invulnerability",
+        "damage_condition": {
+            "type": "origins:from_falling"
+        }
+    }
+}

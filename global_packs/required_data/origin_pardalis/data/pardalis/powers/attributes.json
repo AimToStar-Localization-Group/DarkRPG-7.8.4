@@ -1,0 +1,26 @@
+{
+    "name": "Attribute Modifier",
+    "hidden": true,
+    "type": "origins:attribute",
+    "modifiers": [
+        {
+            "attribute": "reach-entity-attributes:reach",
+            "operation": "addition",
+            "value": -1,
+            "name": "Regular Reach"
+        },
+        {
+            "attribute": "reach-entity-attributes:attack_range",
+            "operation": "addition",
+            "value": -0.5,
+            "name": "Attack Range"
+        },
+        {
+            "attribute": "minecraft:generic.max_health",
+            "operation": "addition",
+            "value": -2,
+            "name": "Maximum Health"
+        }
+    ],
+    "update_health": true
+}

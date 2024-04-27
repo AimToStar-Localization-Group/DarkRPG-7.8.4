@@ -1,0 +1,44 @@
+{
+    "name": "Immense Heat",
+    "description": "Transformed, exposure to the sun radiates too much heat, you are vulnerable.",
+    "type": "origins:multiple",
+    "key1": {
+        "condition": {
+            "type": "origins:and",
+            "conditions": [
+                {
+                    "type": "origins:exposed_to_sun"
+                },
+                {
+                    "type": "origins:power_active",
+                    "power": "lycan:transform/shapeshift"
+                }
+            ]
+        },
+        "type": "origins:conditioned_attribute",
+        "modifiers": [
+            {
+                "attribute": "generic.movement_speed",
+                "operation": "addition",
+                "value": -0.05
+            },
+            {
+                "attribute": "generic.attack_damage",
+                "operation": "addition",
+                "value": -3
+            },
+            {
+                "attribute": "generic.knockback_resistance",
+                "operation": "addition",
+                "value": -2
+            },
+            {
+                "attribute": "generic.attack_speed",
+                "operation": "addition",
+                "value": -2
+            }
+        ],
+        "tick_rate": 20,
+        "update_health": true
+    }
+}

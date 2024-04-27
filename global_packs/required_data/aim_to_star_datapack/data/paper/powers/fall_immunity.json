@@ -1,0 +1,9 @@
+{
+  "type": "origins:invulnerability",
+  "damage_condition": {
+    "type": "origins:name",
+    "name": "fall"
+  },
+  "name": "石头剪刀布",
+  "description": "就像纸一样，你不会受到掉落伤害。"
+}

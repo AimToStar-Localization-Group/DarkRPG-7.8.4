@@ -1,0 +1,15 @@
+{
+    "name": "Blood Hunt",
+    "description": "Transformed, you feed off your enemies.",
+    "condition": {
+        "type": "origins:power_active",
+        "power": "lycan:transform/shapeshift"
+    },
+    "type": "origins:self_action_on_kill",
+    "entity_action": {
+        "type": "origins:feed",
+        "food": 2,
+        "saturation": 0.25
+    },
+    "cooldown": 0
+}
