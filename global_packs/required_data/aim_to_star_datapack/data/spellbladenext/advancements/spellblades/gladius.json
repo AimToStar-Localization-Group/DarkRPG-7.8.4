@@ -3,8 +3,8 @@
     "icon": {
       "item": "spellbladenext:glacial_gladius"
     },
-    "title": "Glacial Profiling",
-    "description": "Obtain a Glacial Gladius",
+    "title": "微缩冰川",
+    "description": "获取一柄冰川短剑",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
