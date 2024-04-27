@@ -3,8 +3,8 @@
     "icon": {
       "item": "spellbladenext:arcane_claymore"
     },
-    "title": "Clay... more? Yes please.",
-    "description": "Obtain all three basic elemental Claymores",
+    "title": "扩……建？扩建好啊，请务必",
+    "description": "获取所有三柄阔剑",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
