@@ -3,8 +3,8 @@
     "icon": {
       "item": "spellbladenext:monkeystaff"
     },
-    "title": "The Great Sage, Heaven's Equal",
-    "description": "Obtain Pillar of the Monkey King",
+    "title": "齐天大圣",
+    "description": "获取金箍棒",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
