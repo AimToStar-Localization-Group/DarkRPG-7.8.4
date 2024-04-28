@@ -1,8 +1,0 @@
-{
-    "name": "天生红外",
-    "description": "你的眼睛可以散发红外线，在暗处可以看得很清楚。",
-    "type": "origins:toggle_night_vision",
-    "active_by_default": false,
-    "strength": 1,
-    "key": "secondary"
-}
