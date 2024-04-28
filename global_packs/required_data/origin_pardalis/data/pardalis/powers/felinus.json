@@ -1,11 +1,11 @@
 {
-    "name": "Felinus",
-    "description": "Like cats you can see better in the dark than others, you are more saturated from fish and meat but you struggle when it comes to mining unless under the haste effect and you only have 9 hearts.",
+    "name": "类猫者",
+    "description": "就像猫一样，你在黑暗中比别人看得更清楚，当你食用鱼和肉时可以回复更多饱食度。除非有急迫效果加持，否则你挖矿会很困难。而且你只有9颗心。",
     "badges": [
            {
               "type": "origins:tooltip",
               "sprite": "minecraft:textures/block/orange_wool.png",
-              "text": "§f§nCat-like:§r Just like ocelots and cats, you do not have to worry about phantoms."
+              "text": "§f§n猫类动物：§r就像豹猫和猫一样，你不必担心幻翼会攻击你。"
            }
     ],
     "hidden": false,
