@@ -1,6 +1,6 @@
 {
-    "name": "Motion Reliant",
-    "description": "You are addicted to the thrill of running to an extent, you cannot heal if you aren't sprinting.",
+    "name": "运动依赖",
+    "description": "你对奔跑在某种程度上很上瘾，你只能在奔跑的时候恢复生命值。",
     "type": "apoli:modify_healing",
     "modifier": {
         "value": -1,
