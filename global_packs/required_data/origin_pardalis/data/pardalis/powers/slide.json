@@ -1,15 +1,15 @@
 {
-    "name": "Instincts",
-    "description": "You move faster when sprinting and can jump higher too, you're also able to slide (Which allows you to go under one block gaps) and you can double jump.",
+    "name": "天性本能",
+    "description": "当你疾跑时你的移动速度更快，而且跳得也更高，同时你还可以滑行（可以让你穿过高度为一格的地方），还可以进行二段跳。",
     "badges": [
         {
             "type": "origins:tooltip",
-            "text": "§f§nAlways Landing:§r Your second jump will prevent you from taking fall damage.",
+            "text": "§f§n轻松着陆：§r你的二段跳可以防止你受到摔落伤害。",
             "sprite": "minecraft:textures/mob_effect/jump_boost.png"
         },
         {
             "type": "origins:keybind",
-            "text": "§f§nNatural Leaper:§r Whilst sliding when you press primary you're able to pounce upwards though this raises your temperature.",
+            "text": "§f§n天生跳跃者：§r当你在滑行时按下热键，可以向上跃起，尽管这样会让你升温。",
             "sprite": "minecraft:textures/mob_effect/speed.png"
         }
     ],
