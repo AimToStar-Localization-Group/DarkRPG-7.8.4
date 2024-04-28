@@ -1,6 +1,6 @@
 {
-    "name": "Blood Hunt",
-    "description": "Transformed, you feed off your enemies.",
+    "name": "血魔狩猎",
+    "description": "变身后，你以敌人为食。",
     "condition": {
         "type": "origins:power_active",
         "power": "lycan:transform/shapeshift"

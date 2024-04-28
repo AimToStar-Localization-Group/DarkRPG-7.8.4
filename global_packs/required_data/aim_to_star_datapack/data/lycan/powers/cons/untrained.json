@@ -1,6 +1,6 @@
 {
-    "name": "Untrained",
-    "description": "While shifted, you are incapable of wielding a shield.",
+    "name": "未经训练",
+    "description": "当你蹲下时，无法举盾。",
     "condition": {
         "type": "origins:power_active",
         "power": "lycan:transform/shapeshift"

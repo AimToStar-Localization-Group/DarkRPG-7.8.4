@@ -1,6 +1,6 @@
 {
-    "name": "Immense Heat",
-    "description": "Transformed, exposure to the sun radiates too much heat, you are vulnerable.",
+    "name": "巨大热量",
+    "description": "变身后，暴露在阳光下会散发很多热量，会使你变得很脆弱。",
     "type": "origins:multiple",
     "key1": {
         "condition": {

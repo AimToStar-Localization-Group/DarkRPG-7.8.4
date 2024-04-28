@@ -1,6 +1,6 @@
 {
-    "name": "Blood Lust",
-    "description": "Transformed, you smell your enemies.",
+    "name": "血魔欲望",
+    "description": "变身后，你可以嗅探到敌人的气味。",
     "condition": {
         "type": "origins:power_active",
         "power": "lycan:transform/shapeshift"

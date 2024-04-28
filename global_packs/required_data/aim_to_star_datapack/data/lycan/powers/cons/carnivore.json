@@ -1,6 +1,6 @@
 {
-    "name": "Carnivore",
-    "description": "You are a carnivorous creature.",
+    "name": "肉食动物",
+    "description": "你是一种只吃肉食的动物。",
     "type": "origins:prevent_item_use",
     "item_condition": {
         "type": "origins:and",

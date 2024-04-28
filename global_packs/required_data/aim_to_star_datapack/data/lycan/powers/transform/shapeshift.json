@@ -1,6 +1,6 @@
 {
-    "name": "Shapeshifter",
-    "description": "As an intelligent human-wolf hybrid, you are able to shift at will, heightening your abilities and growing in size.",
+    "name": "变形者",
+    "description": "作为聪明的狼人混血，你可以随意变形，增强能力并增大体型。",
     "condition": {
         "type": "origins:food_level",
         "comparison": ">",

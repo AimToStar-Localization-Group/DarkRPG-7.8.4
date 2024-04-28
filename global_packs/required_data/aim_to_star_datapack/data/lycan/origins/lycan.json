@@ -1,6 +1,6 @@
 {
-    "name": "Lycan",
-    "description": "Lycans, werewolf shapeshifters shrouded in the legends of Lycaon, have survived over the centuries hiding in plain sight.",
+    "name": "狩狼",
+    "description": "狩狼是一种狼人变形，被笼罩在莱卡翁的传说中，几个世纪以来一直隐藏在众目睽睽之下。",
     "powers": [
         "lycan:passive_traits/superhuman",
         "lycan:passive_traits/nightvision",

@@ -1,6 +1,6 @@
 {
-    "name": "Blood Drive",
-    "description": "Transformed, you will slowly lose appetite; feed to maintain the shift.",
+    "name": "血液驱动",
+    "description": "变身之后，你将逐渐失去食欲；持续喂食以维持身形。",
     "condition": {
         "type": "origins:power_active",
         "power": "lycan:transform/shapeshift"

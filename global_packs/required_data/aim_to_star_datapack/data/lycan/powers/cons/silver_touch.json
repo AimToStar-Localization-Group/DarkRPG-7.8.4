@@ -1,6 +1,6 @@
 {
-    "name": "Silver Touch",
-    "description": "You are unable to wear iron and silver due to its poisonous nature to you.",
+    "name": "银之触感",
+    "description": "铁质和银质物品对你来说是剧毒，你无法穿/佩戴银和铁的装备/饰品。",
     "type": "origins:multiple",
     "key0": {
         "type": "origins:restrict_armor",

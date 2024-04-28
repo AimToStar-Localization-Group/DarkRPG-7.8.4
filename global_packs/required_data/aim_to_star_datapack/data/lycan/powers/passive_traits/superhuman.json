@@ -1,6 +1,6 @@
 {
-    "name": "Superhuman",
-    "description": "You possess superhuman strength, speed, and durability (increased hp, damage, movement speed, and fall immunity).",
+    "name": "超人",
+    "description": "你拥有超人的力量、速度和抵抗力（提高生命值、攻击伤害、移动速度和摔落抗性）。",
     "type": "origins:multiple",
     "key0": {
         "condition": {
