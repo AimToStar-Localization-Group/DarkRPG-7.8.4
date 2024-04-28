@@ -5,7 +5,7 @@
            {
            "type": "origins:keybind",
            "sprite": "minecraft:textures/mob_effect/hero_of_the_village.png",
-           "text": "§aDM Me If Your Find Issues! §e[notjustjay]§a on discord!"
+           "text": "如果你发现了BUG，请私聊我！§e[notjustjay]§a on discord!"
            }
     ],
     "type": "origins:simple"
