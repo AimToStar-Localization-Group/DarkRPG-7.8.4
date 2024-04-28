@@ -1,7 +1,7 @@
 {
    "type":"origins:multiple",
-   "name": "Private Eye",
-   "description": "Your scissor like teeth can pierce enemies skin, this causes them to glow and speed up from adrenaline whilst slowing you down and giving you a slight damage buff.",
+   "name": "私家侦探",
+   "description": "你像剪刀一样的牙齿可以轻松刺穿敌人的皮肤，让他们因为肾上腺素暴增而发光和加速，同时你的速度将被减缓，且会获得一个轻微的伤害增益。",
    "onhit1": {
       "type": "origins:target_action_on_hit",
       "entity_action": {
