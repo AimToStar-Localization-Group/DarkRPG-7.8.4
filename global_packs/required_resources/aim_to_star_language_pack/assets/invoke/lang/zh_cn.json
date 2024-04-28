@@ -52,7 +52,7 @@
     "effect.invoke.flamerush": "火焰跟踪",
     "spell.invoke.threefire.description": "调用火海之力，加三召唤之力。",
     "spell.invoke.heo.name": "寒冰召唤：Heo",
-    "spell.invoke.resonance.name": "霜之回响",
+    "spell.invoke.resonance.name": "霜之共鸣",
     "spell.invoke.homing.description": "发射一连串的四个火球，这些火球可在敌人之间和方块表面反弹，每个火球造成 {damage} 点火焰法术伤害。",
     "spell.invoke.amethystburst.description": "散射八颗紫水晶，如果选中了目标，所有紫水晶都会冲向目标。每一颗紫水晶都会造成 {damage} 点奥秘法术伤害。",
     "spell.invoke.arcaneoverdrive.name": "奥秘坠击",
