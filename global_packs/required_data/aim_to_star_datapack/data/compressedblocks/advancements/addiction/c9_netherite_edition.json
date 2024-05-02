@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:c9_netherite_block"
     },
-    "title": "I have no life!!!",
-    "description": "§4Reach the final compression level with: §2Netherite Block§4! (ps: good luck tehehe)",
+    "title": "真就一直干这个啊！！！",
+    "description": "§4完成§2下界合金块§4的终极压缩！（小声：祝你好运，嘻嘻嘻嘻）",
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,

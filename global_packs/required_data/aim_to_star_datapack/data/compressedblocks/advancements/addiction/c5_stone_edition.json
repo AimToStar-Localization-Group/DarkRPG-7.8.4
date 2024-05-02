@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:c5_stone"
     },
-    "title": "Stone Addiction: VI",
-    "description": "§5Compress 9x Quintuple Compressed §2Stone§5 into Sextuple Compressed §2Stone",
+    "title": "石头狂热： VI",
+    "description": "§5把9个五重压缩§2石头§5制成六重压缩§2石头",
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,

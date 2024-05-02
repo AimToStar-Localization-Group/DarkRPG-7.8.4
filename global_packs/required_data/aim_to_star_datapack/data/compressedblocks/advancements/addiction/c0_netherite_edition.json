@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:c0_netherite_block"
     },
-    "title": "Netherite Addiction: I",
-    "description": "§fCompress 9x §2Netherite Block§f into Compressed §2Netherite Block",
+    "title": "下界合金狂热： I",
+    "description": "§f把9个§2下界合金块§f制成压缩§2下界合金块",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

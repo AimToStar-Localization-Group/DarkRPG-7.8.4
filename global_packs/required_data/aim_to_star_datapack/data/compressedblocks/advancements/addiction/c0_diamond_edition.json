@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:c0_diamond_block"
     },
-    "title": "Diamond Addiction: I",
-    "description": "§fCompress 9x §2Diamond Block§f into Compressed §2Diamond Block",
+    "title": "钻石狂热： I",
+    "description": "§f把9个§2钻石块§f制成压缩§2钻石块",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

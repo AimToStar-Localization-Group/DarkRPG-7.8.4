@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:c5_gravel"
     },
-    "title": "Gravel Addiction: VI",
-    "description": "§5Compress 9x Quintuple Compressed §2Gravel§5 into Sextuple Compressed §2Gravel",
+    "title": "沙砾狂热： VI",
+    "description": "§5把9个五重压缩§2沙砾§5制成六重压缩§2沙砾",
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,

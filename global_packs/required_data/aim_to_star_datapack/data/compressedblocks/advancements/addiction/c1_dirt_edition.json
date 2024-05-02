@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:c1_dirt"
     },
-    "title": "Dirt Addiction: II",
-    "description": "§fCompress 9x Compressed §2Dirt§f into Double Compressed §2Dirt",
+    "title": "泥土狂热： II",
+    "description": "§f把9个压缩§2泥土§f制成二重压缩§2泥土",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

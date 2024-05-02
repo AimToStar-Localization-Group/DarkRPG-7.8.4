@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:c2_sand"
     },
-    "title": "Sand Addiction: III",
-    "description": "§fCompress 9x Double Compressed §2Sand§f into Triple Compressed §2Sand",
+    "title": "沙子狂热： III",
+    "description": "§f把9个二重压缩§2沙子§f制成三重压缩§2沙子",
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true,

@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:c0_tnt"
     },
-    "title": "TNT Addiction: I",
-    "description": "§fCompress 9x §2TNT§f into Compressed §2TNT",
+    "title": "TNT狂热： I",
+    "description": "§f把9个§2TNT§f制成压缩§2TNT",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

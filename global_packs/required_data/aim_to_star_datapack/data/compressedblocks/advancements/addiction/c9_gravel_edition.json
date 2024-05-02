@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:c9_gravel"
     },
-    "title": "Gravel Addiction: X",
-    "description": "§4Reach the final compression level with: §2Gravel§4!",
+    "title": "沙砾狂热： X",
+    "description": "§4完成§2沙砾§4的终极压缩！",
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,

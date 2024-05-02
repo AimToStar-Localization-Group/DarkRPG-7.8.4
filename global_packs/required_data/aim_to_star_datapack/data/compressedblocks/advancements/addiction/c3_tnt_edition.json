@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:c3_tnt"
     },
-    "title": "TNT Addiction: IV",
-    "description": "§fCompress 9x Triple Compressed §2TNT§f into Quadruple Compressed §2TNT",
+    "title": "TnT狂热： IV",
+    "description": "§f把9个三重压缩§2TNT§f制成四重压缩§2TNT",
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true,

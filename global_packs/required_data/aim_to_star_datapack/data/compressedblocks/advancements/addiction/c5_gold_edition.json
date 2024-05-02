@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:c5_gold_block"
     },
-    "title": "Gold Addiction: VI",
-    "description": "§5Compress 9x Quintuple Compressed §2Gold Block§5 into Sextuple Compressed §2Gold Block",
+    "title": "金块狂热： VI",
+    "description": "§5把9个五重压缩§2金块§5制成六重压缩§2金块",
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,

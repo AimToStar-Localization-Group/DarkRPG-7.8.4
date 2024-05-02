@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:c0_gold_block"
     },
-    "title": "Gold Addiction: I",
-    "description": "§fCompress 9x §2Gold Block§f into Compressed §2Gold Block",
+    "title": "金块狂热： I",
+    "description": "§f把9个§2金块§f制成压缩§2金块",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

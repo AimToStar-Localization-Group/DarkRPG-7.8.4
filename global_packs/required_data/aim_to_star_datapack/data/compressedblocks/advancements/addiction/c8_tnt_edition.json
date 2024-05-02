@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:c8_tnt"
     },
-    "title": "TNT Addiction: IX",
-    "description": "§5Compress 9x Octuple Compressed §2TNT§5 into Mega Compressed §2TNT",
+    "title": "TnT狂热： IX",
+    "description": "§5把9个八重压缩§2TNT§5制成九重压缩§2TNT",
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,

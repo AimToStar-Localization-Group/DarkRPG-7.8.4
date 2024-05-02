@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:c9_iron_block"
     },
-    "title": "Iron Addiction: X",
-    "description": "§4Reach the final compression level with: §2Iron Block§4!",
+    "title": "铁块狂热： X",
+    "description": "§4完成§2铁块§4的终极压缩！",
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,

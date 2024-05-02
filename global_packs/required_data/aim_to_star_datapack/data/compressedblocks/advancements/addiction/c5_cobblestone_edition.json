@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:c5_cobblestone"
     },
-    "title": "Cobblestone Addiction: VI",
-    "description": "§5Compress 9x Quintuple Compressed §2Cobblestone§5 into Sextuple Compressed §2Cobblestone",
+    "title": "圆石狂热： VI",
+    "description": "§5把9个五重压缩§2圆石§5制成六重压缩§2圆石",
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,
