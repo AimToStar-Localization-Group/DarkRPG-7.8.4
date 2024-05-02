@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:c2_stone"
     },
-    "title": "The Third Step",
-    "description": "Continue the compression algorithm.",
+    "title": "第三步",
+    "description": "继续压缩。",
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true,

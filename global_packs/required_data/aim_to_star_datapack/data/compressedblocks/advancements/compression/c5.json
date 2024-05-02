@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:c5_stone"
     },
-    "title": "The Sixth Step",
-    "description": "Continue the compression algorithm.",
+    "title": "第六步",
+    "description": "继续压缩。",
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,

@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:c0_stone"
     },
-    "title": "The First Step",
-    "description": "Compress any block.",
+    "title": "第一步",
+    "description": "压缩任意方块。",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

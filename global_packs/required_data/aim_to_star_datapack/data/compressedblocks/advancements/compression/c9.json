@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:c9_stone"
     },
-    "title": "The Final Step",
-    "description": "§4Reach the final compression level!",
+    "title": "最后一步",
+    "description": "§4完成终极压缩！",
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,

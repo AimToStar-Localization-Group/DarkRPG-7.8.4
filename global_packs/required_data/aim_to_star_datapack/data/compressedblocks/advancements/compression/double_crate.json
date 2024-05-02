@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:double_crated_apple"
     },
-    "title": "MOAR Crates!!!",
-    "description": "Crate any crated item",
+    "title": "更多箱子！！！",
+    "description": "把箱装物品继续装箱",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

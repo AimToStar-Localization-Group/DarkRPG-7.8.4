@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:octuple_crated_apple"
     },
-    "title": "Crate Dealer",
-    "description": "Continue the crating algorithm.",
+    "title": "装箱大师",
+    "description": "继续装箱。",
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,

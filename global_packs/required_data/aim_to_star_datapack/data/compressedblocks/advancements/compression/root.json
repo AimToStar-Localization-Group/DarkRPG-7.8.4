@@ -3,8 +3,8 @@
     "icon": {
       "item": "minecraft:bedrock"
     },
-    "title": "Compression",
-    "description": "The way of compression!",
+    "title": "压缩",
+    "description": "压缩之路！",
     "background": "minecraft:textures/block/bedrock.png",
     "frame": "goal",
     "show_toast": true,
