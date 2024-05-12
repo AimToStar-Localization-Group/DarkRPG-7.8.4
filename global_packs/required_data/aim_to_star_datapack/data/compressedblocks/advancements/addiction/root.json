@@ -3,8 +3,8 @@
     "icon": {
       "item": "minecraft:diamond"
     },
-    "title": "Block Addiction",
-    "description": "The War of Addiction",
+    "title": "方块囤积狂",
+    "description": "囤积狂的战争",
     "background": "minecraft:textures/block/dark_oak_planks.png",
     "frame": "goal",
     "show_toast": true,

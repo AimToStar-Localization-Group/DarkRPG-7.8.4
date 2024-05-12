@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:c5_tnt"
     },
-    "title": "TNT Addiction: VI",
-    "description": "§5Compress 9x Quintuple Compressed §2TNT§5 into Sextuple Compressed §2TNT",
+    "title": "TnT狂热： VI",
+    "description": "§5把9个五重压缩§2TNT§5制成六重压缩§2TNT",
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,

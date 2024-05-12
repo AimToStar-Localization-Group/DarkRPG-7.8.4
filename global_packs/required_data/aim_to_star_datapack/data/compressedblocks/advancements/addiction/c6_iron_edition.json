@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:c6_iron_block"
     },
-    "title": "Iron Addiction: VII",
-    "description": "§5Compress 9x Sextuple Compressed §2Iron Block§5 into Septuple Compressed §2Iron Block",
+    "title": "铁块狂热： VII",
+    "description": "§5把9个六重压缩§2铁块§5制成七重压缩§2铁块",
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,

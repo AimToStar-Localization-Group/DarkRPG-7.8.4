@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:c9_stone"
     },
-    "title": "Stone Addiction: X",
-    "description": "§4Reach the final compression level with: §2Stone§4!",
+    "title": "石头狂热： X",
+    "description": "§4完成§2石头§4的终极压缩！",
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,

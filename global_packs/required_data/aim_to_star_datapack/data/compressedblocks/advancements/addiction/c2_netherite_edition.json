@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:c2_netherite_block"
     },
-    "title": "Netherite Addiction: III",
-    "description": "§fCompress 9x Double Compressed §2Netherite Block§f into Triple Compressed §2Netherite Block",
+    "title": "下界合金狂热：III",
+    "description": "§f把9个二重压缩§2下界合金块§f制成三重压缩§2下界合金块",
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true,

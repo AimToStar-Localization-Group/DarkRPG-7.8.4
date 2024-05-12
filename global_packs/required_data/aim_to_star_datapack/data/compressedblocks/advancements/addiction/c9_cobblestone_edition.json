@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:c9_cobblestone"
     },
-    "title": "Cobbletone Addiction: X",
-    "description": "§4Reach the final compression level with: §2Cobblestone§4!",
+    "title": "圆石狂热： X",
+    "description": "§4完成§2圆石§4的终极压缩！",
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,

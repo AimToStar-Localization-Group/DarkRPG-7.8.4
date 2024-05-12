@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:c8_gold_block"
     },
-    "title": "Gold Addiction: IX",
-    "description": "§5Compress 9x Octuple Compressed §2Gold Block§5 into Mega Compressed §2Gold Block",
+    "title": "金块狂热： IX",
+    "description": "§5把9个八重压缩§2金块§5制成九重压缩§2金块",
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,

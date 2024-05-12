@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:giga_crated_apple"
     },
-    "title": "Global Crate Master",
-    "description": "Craft the final crate!",
+    "title": "世界级装箱大师",
+    "description": "终极装箱！",
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,

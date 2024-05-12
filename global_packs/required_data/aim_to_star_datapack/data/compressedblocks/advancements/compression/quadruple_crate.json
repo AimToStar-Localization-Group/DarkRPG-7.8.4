@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:quadruple_crated_apple"
     },
-    "title": "MOAR and MOAR Crates!!!",
-    "description": "Continue the crating algorithm.",
+    "title": "超超超多的箱子！！！",
+    "description": "继续装箱。",
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true,

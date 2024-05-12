@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:c7_diamond_block"
     },
-    "title": "Diamond Addiction: VIII",
-    "description": "§5Compress 9x Septuple Compressed §2Diamond Block§5 into Octuple Compressed §2Diamond Block",
+    "title": "钻石狂热： VIII",
+    "description": "§5把9个七重压缩§2钻石块§5制成八重压缩§2钻石块",
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,

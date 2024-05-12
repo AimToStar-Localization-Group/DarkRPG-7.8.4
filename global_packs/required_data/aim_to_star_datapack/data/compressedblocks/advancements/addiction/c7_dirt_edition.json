@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:c7_dirt"
     },
-    "title": "Dirt Addiction: VIII",
-    "description": "§5Compress 9x Septuple Compressed §2Dirt§5 into Octuple Compressed §2Dirt",
+    "title": "泥土狂热： VIII",
+    "description": "§5把9个七重压缩§2泥土§5制成八重压缩§2泥土",
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,

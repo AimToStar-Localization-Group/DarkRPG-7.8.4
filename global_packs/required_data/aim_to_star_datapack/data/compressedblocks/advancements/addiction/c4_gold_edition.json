@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:c4_gold_block"
     },
-    "title": "Gold Addiction: V",
-    "description": "§5Compress 9x Quadruple Compressed §2Gold Block§5 into Quintuple Compressed §2Gold Block",
+    "title": "金块狂热： V",
+    "description": "§5把9个四重压缩§2金块§5制成五重压缩§2金块",
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,

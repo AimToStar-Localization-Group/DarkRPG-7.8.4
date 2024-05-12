@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:c5_netherite_block"
     },
-    "title": "Netherite Addiction: VI",
-    "description": "§5Compress 9x Quintuple Compressed §2Netherite Block§5 into Sextuple Compressed §2Netherite Block",
+    "title": "下界合金狂热： VI",
+    "description": "§5把9个五重压缩§2下界合金块§5制成六重压缩§2下界合金块",
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,

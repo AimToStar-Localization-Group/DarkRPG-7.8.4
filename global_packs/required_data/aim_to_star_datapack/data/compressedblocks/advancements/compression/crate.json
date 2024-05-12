@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:crated_apple"
     },
-    "title": "Crates everywhere!",
-    "description": "Crate any item",
+    "title": "到处都是箱子！",
+    "description": "把物品装箱",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

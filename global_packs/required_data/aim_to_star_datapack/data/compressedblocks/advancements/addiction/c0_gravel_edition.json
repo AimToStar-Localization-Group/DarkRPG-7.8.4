@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:c0_gravel"
     },
-    "title": "Gravel Addiction: I",
-    "description": "§fCompress 9x §2Gravel§f into Compressed §2Gravel",
+    "title": "沙砾狂热：I",
+    "description": "§f把9个§2沙砾§f制成压缩§2沙砾",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

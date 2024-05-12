@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:sextuple_crated_apple"
     },
-    "title": "I NEED EVEN MOOOORE CRATES !!!!!",
-    "description": "Continue the crating algorithm.",
+    "title": "我还需要更更更多的箱子！！！！！",
+    "description": "继续装箱。",
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,

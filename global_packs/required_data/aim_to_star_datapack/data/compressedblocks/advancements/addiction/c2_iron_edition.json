@@ -3,8 +3,8 @@
     "icon": {
       "item": "compressedblocks:c2_iron_block"
     },
-    "title": "Iron Addiction: III",
-    "description": "§fCompress 9x Double Compressed §2Iron Block§f into Triple Compressed §2Iron Block",
+    "title": "铁块狂热：III",
+    "description": "§f把9个二重压缩§2铁块§f制成三重压缩§2铁块",
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true,
