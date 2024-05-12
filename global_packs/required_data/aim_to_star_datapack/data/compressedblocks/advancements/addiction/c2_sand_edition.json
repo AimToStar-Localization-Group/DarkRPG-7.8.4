@@ -3,7 +3,7 @@
     "icon": {
       "item": "compressedblocks:c2_sand"
     },
-    "title": "沙子狂热： III",
+    "title": "沙子狂热：III",
     "description": "§f把9个二重压缩§2沙子§f制成三重压缩§2沙子",
     "frame": "goal",
     "show_toast": true,

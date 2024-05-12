@@ -3,7 +3,7 @@
     "icon": {
       "item": "compressedblocks:c0_cobblestone"
     },
-    "title": "圆石狂热： I",
+    "title": "圆石狂热：I",
     "description": "§f把9个§2圆石§f制成压缩§2圆石",
     "frame": "task",
     "show_toast": true,

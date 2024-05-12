@@ -3,7 +3,7 @@
     "icon": {
       "item": "compressedblocks:c1_tnt"
     },
-    "title": "TNT狂热： II",
+    "title": "TNT狂热：II",
     "description": "§f把9个Compressed §2TNT§f制成二重压缩§2TNT",
     "frame": "task",
     "show_toast": true,

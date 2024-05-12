@@ -3,7 +3,7 @@
     "icon": {
       "item": "compressedblocks:c0_gravel"
     },
-    "title": "沙砾狂热： I",
+    "title": "沙砾狂热：I",
     "description": "§f把9个§2沙砾§f制成压缩§2沙砾",
     "frame": "task",
     "show_toast": true,

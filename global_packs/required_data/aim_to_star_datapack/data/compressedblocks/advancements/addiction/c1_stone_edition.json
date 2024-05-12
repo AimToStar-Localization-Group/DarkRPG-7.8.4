@@ -3,7 +3,7 @@
     "icon": {
       "item": "compressedblocks:c1_stone"
     },
-    "title": "石头狂热： II",
+    "title": "石头狂热：II",
     "description": "§f把9个Compressed §2石头§f制成二重压缩§2石头",
     "frame": "task",
     "show_toast": true,

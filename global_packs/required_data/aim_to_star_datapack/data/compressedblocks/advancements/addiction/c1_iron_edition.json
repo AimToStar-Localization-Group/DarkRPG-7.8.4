@@ -3,7 +3,7 @@
     "icon": {
       "item": "compressedblocks:c1_iron_block"
     },
-    "title": "铁块狂热： II",
+    "title": "铁块狂热：II",
     "description": "§f把9个Compressed §2铁块§f制成二重压缩§2铁块",
     "frame": "task",
     "show_toast": true,

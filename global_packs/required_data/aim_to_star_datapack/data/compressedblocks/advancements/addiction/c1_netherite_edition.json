@@ -3,7 +3,7 @@
     "icon": {
       "item": "compressedblocks:c1_netherite_block"
     },
-    "title": "下界合金狂热： II",
+    "title": "下界合金狂热：II",
     "description": "§f把9个Compressed §2下界合金块§f制成二重压缩§2下界合金块",
     "frame": "task",
     "show_toast": true,
